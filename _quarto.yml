@@ -35,8 +35,4 @@ format:
 execute: 
   freeze: auto
 
-# run "quarto render" in terminal
-# in Git, commit all
-# run "usethis::use_github()" in console
-
 
