@@ -1,0 +1,28 @@
+---
+title: "David Almona"
+about:
+  template: jolla
+  image: assets/headshot.jpeg
+  # image-shape: round # changing image shape
+  links:
+    - icon: envelope-at
+      text: Email
+      href: "mailto:almonadavid@gmail.com"
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+      target: blank
+    - icon: github
+      text: Github
+      href: https://github.com/almonadavid
+      target: blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/davidalmona/
+      target: blank # open in new tab
+---
+
+Hi. I'm Almona, a final year undergrad international-student at Centre College, KY, with a major in (Economics & Finance) and a minor in Data Science.
+I'm also on the track & field team, running the 100m and 200m
+
+I'm interested in sleeping and eating # joke
