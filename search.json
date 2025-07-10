@@ -1,17 +1,17 @@
 [
   {
+    "objectID": "projects/eda/eda.html",
+    "href": "projects/eda/eda.html",
+    "title": "My EDA project",
+    "section": "",
+    "text": "This is my EDA project…\nSome info…"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Random text…\nAnother random text…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy EDA project\n\n\n\n\n\nThis is my summer 2025 EDA project\n\n\n\n\n\nJun 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMy CMU SURE Capstone Project\n\n\n\n\n\n[add description here for summer 2025 project]\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/CMU capstone/CMU capstone.html",
-    "href": "projects/CMU capstone/CMU capstone.html",
-    "title": "My CMU SURE Capstone Project",
-    "section": "",
-    "text": "This is my CMU capstone project…"
+    "text": "Random text…\nAnother random text…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy EDA project\n\n\nThis is my summer 2025 EDA project\n\n\n\n\n\nJun 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMy CMU SURE Capstone Project\n\n\n[add description here for summer 2025 project]\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -21,10 +21,10 @@
     "text": "Hi. I’m Almona, a final year undergrad international-student at Centre College, KY, with a major in (Economics & Finance) and a minor in Data Science. I’m also on the track & field team, running the 100m and 200m\nI’m interested in sleeping and eating # joke"
   },
   {
-    "objectID": "projects/eda/eda.html",
-    "href": "projects/eda/eda.html",
-    "title": "My EDA project",
+    "objectID": "projects/CMU capstone/CMU capstone.html",
+    "href": "projects/CMU capstone/CMU capstone.html",
+    "title": "My CMU SURE Capstone Project",
     "section": "",
-    "text": "This is my EDA project…\nSome info…"
+    "text": "This is my CMU capstone project…"
   }
 ]
