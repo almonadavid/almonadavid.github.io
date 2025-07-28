@@ -1,13 +1,14 @@
 ---
 title: "Projects"
-listing: 
-  contents: projects # name of the folder
-  type: default
-  sort: 
-    - "date"
-    - "title desc"
 ---
 
-Random text...
+### 2025
 
-Another random text...
+**Forced Turnover: Evaluating Pressing Effectiveness in Soccer** (Jul 2025)  
+Carnegie Mellon Sports Analytics Camp Capstone: A Machine Learning approach to analyze pressing in soccer with player tracking data from 520 MLS matches. <br>
+Partner: Natalie Rayce (Carnegie Mellon University), Daniel Wicker (Charlotte FC) <br>
+[Paper](/projects/CMSACamp/Capstone_Report.html) | [Poster](/projects/CMSACamp/CMSACamp_Poster.pdf) | [Slides](/projects/CMSACamp/Final_Presentation.html) | [GitHub](https://github.com/almonadavid/CMU-Soccer-SkillCorner)  
+
+**Another Project** (Feb 2024)  
+Description here.  
+[Paper](link) | [Code](link)

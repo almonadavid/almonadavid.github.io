@@ -5,7 +5,8 @@ project:
 website:
   title: "David Almona"
   navbar:
-    background: "#000000"
+    background: "#000000" 
+    search: true
     left:
       - href: index.qmd
         text: Home
@@ -15,9 +16,6 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/davidalmona/
         target: blank # open in new tab
-      - icon: cash
-        href: https://venmo.com/
-        target: blank
       - icon: github
         href: https://github.com/almonadavid
         target: blank
@@ -31,6 +29,7 @@ format:
       - cosmos
     css: styles.css
     toc: true
+    link-external-newwindow: true
 
 execute: 
   freeze: auto
