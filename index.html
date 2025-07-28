@@ -38,7 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ca1de988c2161c940a9c9b8c77422744.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a48f6c3a350a8aec9bb11777731cd1cf.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -104,11 +104,6 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://venmo.com/" target="blank"> <i class="bi bi-cash" role="img">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/almonadavid" target="blank"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
@@ -141,28 +136,26 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
   </div>
 </header><main class="content" id="quarto-document-content">
-<p>Hi. I’m Almona, a final year undergrad international-student at Centre College, KY, with a major in (Economics &amp; Finance) and a minor in Data Science. I’m also on the track &amp; field team, running the 100m and 200m</p>
-<p>I’m interested in sleeping and eating # joke</p>
+<p>Welcome! I’m Almona, a final year undergraduate student at Centre College studying Economics with a minor in Data Science. I enjoy working on data analysis and statistical modeling problems and applying these skills to real-world data.</p>
+<p>Feel free to look at my resume and projects I have worked on.</p>
+<p>I’m also on the track &amp; field team, competing mainly in the 100m and 200m.</p>
+<p>Fun fact: I have studied in three countries - Nigeria, South Africa, and now the US.</p>
 
 
 </main> 
   <hr class="about-sep">
    <div class="about-links">
-  <a href="mailto:almonadavid@gmail.com" class="about-link" rel="" target="">
+  <a href="https://www.linkedin.com/in/davidalmona/" class="about-link" rel="" target="blank">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="mailto:almonadavid@gmail.com" class="about-link" rel="" target="blank">
     <i class="bi bi-envelope-at"></i>
      <span class="about-link-text">Email</span>
-  </a>
-  <a href="https://twitter.com" class="about-link" rel="" target="blank">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">Twitter</span>
   </a>
   <a href="https://github.com/almonadavid" class="about-link" rel="" target="blank">
     <i class="bi bi-github"></i>
      <span class="about-link-text">Github</span>
-  </a>
-  <a href="https://www.linkedin.com/in/davidalmona/" class="about-link" rel="" target="blank">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
   </a>
 </div>
 </div>
@@ -246,6 +239,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
