@@ -16,12 +16,15 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/davidalmona/
         target: blank # open in new tab
+        title: "LinkedIn""
       - icon: github
         href: https://github.com/almonadavid
         target: blank
+        title: "GitHub"
       - icon: file-pdf
         href: assets/David Almona, Resume.pdf
         target: blank
+        title: "View Resume"
 
 format:
   html:

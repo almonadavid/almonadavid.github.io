@@ -21,9 +21,8 @@ Partner: Vedant Bhong <br>
 [Slides](/projects/dsc230_project/NBA_Honors_Selections.pdf) | [GitHub](https://github.com/almonadavid/NBA-Honors-Selections-2024-25-season) | [College News](https://www.centre.edu/news/students-predict-nba-honors-winners-teams)
 
 **2025 Cincinnati Reds Baseball Analytics Student Hackathon** (Feb 2025) <br>
-[insert description] <br>
-[Kaggle Notebook](link) | [GitHub](link)
-...
+Challenge: Predict the total playing time (PA/BF) players will receive in 2024. <br>
+[Kaggle Notebook](https://www.kaggle.com/code/almona/david-almona-cincinnati-reds-hackathon) | [GitHub](https://github.com/almonadavid/Cincinnati-Reds-Hackathon-2025)
 
 
 
@@ -31,11 +30,13 @@ Partner: Vedant Bhong <br>
 
 **National Olympic Performance: Analyzing Economic, Demographic, and Historical Determinants of Summer Olympics Medal Counts** (Dec 2024) <br>
 *Econometrics Final Paper* <br>
-[Paper](/projects/Econometrics/AlmonaDPaper.pdf) | [GitHub/Stata](link)
+[Paper](/projects/Econometrics/AlmonaDPaper.pdf) | [GitHub/Stata](https://github.com/almonadavid/econometrics)
 
 
 **Minesweeper** (Dec 2024) <br>
-My attempt at recreating the classic Minesweeper game using Python.
+My attempt at recreating the classic Minesweeper game using Python. <br>
+[GitHub](https://github.com/almonadavid/Minesweeper)
+
 
 
 
