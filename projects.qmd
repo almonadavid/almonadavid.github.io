@@ -4,11 +4,38 @@ title: "Projects"
 
 ### 2025
 
-**Forced Turnover: Evaluating Pressing Effectiveness in Soccer** (Jul 2025)  
-Carnegie Mellon Sports Analytics Camp Capstone: A Machine Learning approach to analyze pressing in soccer with player tracking data from 520 MLS matches. <br>
+**Forced Turnover: Evaluating Pressing Effectiveness in Soccer** (Jul 2025) <br> 
+*Carnegie Mellon Sports Analytics Camp* <br>
+A Machine Learning approach to analyze pressing in soccer with player tracking data from 520 MLS matches. <br>
 Partner: Natalie Rayce (Carnegie Mellon University), Daniel Wicker (Charlotte FC) <br>
 [Paper](/projects/CMSACamp/Capstone_Report.html) | [Poster](/projects/CMSACamp/CMSACamp_Poster.pdf) | [Slides](/projects/CMSACamp/Final_Presentation.html) | [GitHub](https://github.com/almonadavid/CMU-Soccer-SkillCorner)  
 
-**Another Project** (Feb 2024)  
-Description here.  
-[Paper](link) | [Code](link)
+**Data Analytics Externship | Consumer Insights & Strategic Decision-Making** (Jun 2025) <br> 
+*Beats by Dre* <br>
+An analysis on Beats' in the wireless speaker market, analyzing 4,628 consumer survey responses for business recommendations. <br>
+[Slides](/projects/Externship/Beats-Wireless-Speaker-Strategic-Assessment.pdf) | [Dashboard](https://claude.ai/public/artifacts/2f0ea25a-b784-4668-886c-b26ff4c6f1ce)
+
+**NBA Honors Selections 2024-25 Season** (May 2025) <br>
+Predicting NBA honors (All-NBA, All-Defensive, All-Rookie) using regular-season box score statistics. <br>
+Partner: Vedant Bhong <br>
+[Slides](/projects/dsc230_project/NBA_Honors_Selections.pdf) | [GitHub](https://github.com/almonadavid/NBA-Honors-Selections-2024-25-season) | [College News](https://www.centre.edu/news/students-predict-nba-honors-winners-teams)
+
+**2025 Cincinnati Reds Baseball Analytics Student Hackathon** (Feb 2025) <br>
+[insert description] <br>
+[Kaggle Notebook](link) | [GitHub](link)
+...
+
+
+
+### 2024
+
+**National Olympic Performance: Analyzing Economic, Demographic, and Historical Determinants of Summer Olympics Medal Counts** (Dec 2024) <br>
+*Econometrics Final Paper* <br>
+[Paper](/projects/Econometrics/AlmonaDPaper.pdf) | [GitHub/Stata](link)
+
+
+**Minesweeper** (Dec 2024) <br>
+My attempt at recreating the classic Minesweeper game using Python.
+
+
+
