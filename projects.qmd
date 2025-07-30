@@ -30,13 +30,18 @@ Challenge: Predict the total playing time (PA/BF) players will receive in 2024. 
 
 **National Olympic Performance: Analyzing Economic, Demographic, and Historical Determinants of Summer Olympics Medal Counts** (Dec 2024) <br>
 *Econometrics Final Paper* <br>
-[Paper](/projects/Econometrics/AlmonaDPaper.pdf) | [GitHub/Stata](https://github.com/almonadavid/econometrics)
+[Paper](/projects/Econometrics/AlmonaDPaper.pdf) | [GitHub](https://github.com/almonadavid/econometrics)
 
 
 **Minesweeper** (Dec 2024) <br>
 My attempt at recreating the classic Minesweeper game using Python. <br>
 [GitHub](https://github.com/almonadavid/Minesweeper)
 
+
+**Centre College Women’s Soccer Analytics Dashboard** (Nov 2024) <br>
+Analyzed shot data for a Division III women’s soccer team using RShiny to build an interactive dashboard. <br>
+*Presented during poster session at the Carnegie Mellon Sports Analytics Conference 2024* <br>
+[GitHub](https://github.com/almonadavid/centre-college-womens-soccer)
 
 
 

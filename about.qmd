@@ -1,0 +1,18 @@
+---
+title: "David Almona"
+subtitle: "Economics & Data Science Student @ Centre College"
+---
+
+### Education
+
+[..insert ALA, CC...]
+
+
+### Experience
+
+[..insert externship, fall research, CMU research..]
+
+
+### Conferences Attended
+
+[..insert CMU conference 2024 (in-person), SABR Analytics conference (remote), CMU conference 2025..]

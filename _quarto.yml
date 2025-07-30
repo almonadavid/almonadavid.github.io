@@ -10,12 +10,17 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: About
       - href: projects.qmd
         text: Projects
+      - href: assets/David Almona, Resume.pdf
+        text: Resume
+        target: blank
     right: 
       - icon: linkedin
         href: https://www.linkedin.com/in/davidalmona/
-        target: blank # open in new tab
+        target: blank
       - icon: github
         href: https://github.com/almonadavid
         target: blank

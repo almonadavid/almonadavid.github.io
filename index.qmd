@@ -20,10 +20,8 @@ about:
 
 ---
 
-Welcome! I'm Almona, a final year undergraduate student at Centre College studying Economics with a minor in Data Science. I enjoy working on data analysis and statistical modeling problems and applying these skills to real-world data.
+Welcome! I'm Almona, born and raised in Lagos, Nigeria. I'm a final year undergraduate student at Centre College studying Economics with a minor in Data Science. I enjoy working on data analysis and statistical modeling problems and applying these skills to real-world data.
 
 Feel free to look at my resume and projects I have worked on.
 
 I'm also on the track & field team, competing mainly in the 100m and 200m.
-
-Fun fact: I have studied in three countries - Nigeria, South Africa, and now the US.
