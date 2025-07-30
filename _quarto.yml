@@ -30,8 +30,7 @@ website:
 
 format:
   html:
-    theme: quartz
-      - cosmos
+    theme: cosmos
     css: styles.css
     toc: true
     link-external-newwindow: true
