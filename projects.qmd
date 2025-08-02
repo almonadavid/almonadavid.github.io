@@ -8,7 +8,7 @@ title: "Projects"
 *Carnegie Mellon Sports Analytics Camp* <br>
 A Machine Learning approach to analyze pressing in soccer with player tracking data from 520 MLS matches. <br>
 Partner: Natalie Rayce (Carnegie Mellon University), Daniel Wicker (Charlotte FC) <br>
-[Paper](/projects/CMSACamp/Capstone_Report.html) | [Poster](/projects/CMSACamp/CMSACamp_Poster.pdf) | [Slides](/projects/CMSACamp/Final_Presentation.html) | [GitHub](https://github.com/almonadavid/CMU-Soccer-SkillCorner)  
+[Report](/projects/CMSACamp/Capstone_Report.html) | [Poster](/projects/CMSACamp/CMSACamp_Poster.pdf) | [Slides](/projects/CMSACamp/Final_Presentation.html) | [GitHub](https://github.com/almonadavid/CMU-Soccer-SkillCorner)  
 
 **Data Analytics Externship | Consumer Insights & Strategic Decision-Making** (Jun 2025) <br> 
 *Beats by Dre* <br>

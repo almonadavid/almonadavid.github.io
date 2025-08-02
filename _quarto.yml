@@ -15,7 +15,7 @@ website:
       - href: projects.qmd
         text: Projects
       - href: assets/David Almona, Resume.pdf
-        text: Resume
+        text: Résumé
         target: blank
     right: 
       - icon: linkedin
