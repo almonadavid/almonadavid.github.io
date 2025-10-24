@@ -3393,6 +3393,7 @@ Table 2: Turnover rates by how ball carrier gained possession. Interceptions sh
 <li><p>XGBoost tuning was performed on a 50% sample of the data. We tested incremental samples (10%, 20%, 30%, then 50%) and observed performance improvements with each increase, suggesting the model would perform even better if tuned on the entire dataset.</p></li>
 <li><p>Our analysis uses only MLS data, limiting generalizability to other leagues with different tactical styles, player quality, or physical demands. We had access to NWSL 2023 season data but decided against training on MLS and testing on NWSL, as these two leagues vary greatly.</p></li>
 <li><p>Grouping pressing actions into sequences means this approach cannot evaluate individual player pressing effectiveness, as multiple defenders can contribute to a single pressing sequence.</p></li>
+<li><p>Missing values were flagged with indicator variables (for numeric features) or labeled as ‘unknown’ (for categorical features) rather than estimated, which may limit the model’s ability to capture underlying patterns.</p></li>
 </ul>
 </section>
 <section id="future" class="level5">
