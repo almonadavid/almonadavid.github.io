@@ -4,6 +4,12 @@ title: "Projects"
 
 ### 2025
 
+**Chasing Imperfect Passes: Into the Life of a Receiver** (Dec 2025) <br>
+*2026 NFL Big Data Bowl Submission* <br>
+Evaluating how a QB's throw makes life easier or harder for the receiver, by quantifying receiver adjustments while the ball is in the air. <br>
+Partner: Sammy Davis <br>
+[Writeup](https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-analytics/writeups/chasing-imperfect-passes) | [GitHub](https://github.com/almonadavid/BigDataBowl2026)
+
 **Forced Turnover: Evaluating Pressing Effectiveness in Soccer** (Jul 2025) <br> 
 *Carnegie Mellon Sports Analytics Camp* <br>
 A Machine Learning approach to analyze pressing in soccer with player tracking data from 520 MLS matches. <br>
