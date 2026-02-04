@@ -36,7 +36,7 @@ Challenge: Predict the total playing time (PA/BF) players will receive in 2024. 
 
 ### 2024
 
-**National Olympic Performance: Analyzing Economic, Demographic, and Historical Determinants of Summer Olympics Medal Counts** (Dec 2024) <br>
+**National Olympic Performance: Determinants of Medal Counts** (Dec 2024) <br>
 *Econometrics Final Paper* <br>
 [Paper](/projects/Econometrics/AlmonaDPaper.pdf) | [GitHub](https://github.com/almonadavid/econometrics)
 
