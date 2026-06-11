@@ -2,6 +2,11 @@
 title: "Projects"
 ---
 
+### 2026
+**2026 FIFA World Cup Prediction** (June 2026) <br>
+Using Poisson regression and Monte Carlo simulations to generate projections for the tournament. <br>
+[Writeup](/projects/fifa_wc_2026/wc2026.html) | [GitHub](https://github.com/almonadavid/fifa-world-cup-2026) 
+
 ### 2025
 
 **Chasing Imperfect Passes: Into the Life of a Receiver** (Dec 2025) <br>
