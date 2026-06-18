@@ -2,8 +2,9 @@
 title: "David Almona"
 about:
   template: solana
-  image: assets/headshot.jpeg
-  # image-shape: round # changing image shape
+  image: assets/headshot.jpg
+  image-shape: round # changing image shape
+  image-width: 16em
   links:
     - icon: linkedin
       text: LinkedIn
