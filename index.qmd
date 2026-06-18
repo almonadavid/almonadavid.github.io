@@ -1,7 +1,7 @@
 ---
 title: "David Almona"
 about:
-  template: jolla
+  template: solana
   image: assets/headshot.jpeg
   # image-shape: round # changing image shape
   links:
@@ -17,8 +17,9 @@ about:
       text: Github
       href: https://github.com/almonadavid
       target: blank
-
 ---
+
+::: {.about-content}
 
 Welcome! I'm Almona, born and raised in Lagos, Nigeria. I'm a recent graduate of Centre College, where I studied Economics with a minor in Data Science.
 
@@ -27,3 +28,51 @@ I enjoy working on data science and analytical problems, with a particular inter
 Right now I'm focused on improving my Python, modeling, and machine learning skills, and keeping up with how the field is evolving.
 
 Feel free to look at my resumé and the projects I've worked on.
+
+## Education
+
+**Centre College**, Danville, KY  <br>
+BS in Economics & Finance, Data Science minor | *Expected May 2026*
+
+**College for Social Innovation**, Boston, MA <br>
+Semester in the City (SITC) Fellow | *Aug 2025 - Dec 2025* <br>
+Advisor: [Emily Lagas](https://www.linkedin.com/in/emily-lagas-lcsw/)
+
+**African Leadership Academy**, Johannesburg, South Africa  <br>
+Cambridge A Levels: Physics and Mathematics | *2020 - 2022*
+
+## Experience
+
+**Basketball Analytics Intern** | Los Angeles Sparks  <br>
+*Feb 2026 - Present*
+
+**Business Program Development Fellow** | Sustainable Business Network of Massachusetts  <br>
+*Sep 2025 - Dec 2025* <br>
+Supervisor: [Kerry Kokkinogenis](https://www.linkedin.com/in/kerry-kokkinogenis-95a92724/)
+
+**Undergraduate Research Fellow** | Carnegie Mellon University  <br>
+*Jun 2025 - Jul 2025* <br>
+Advisors: [Quang Nguyen](https://www.linkedin.com/in/qntkhvn/), [Daniel Wicker](https://www.linkedin.com/in/daniel-wicker/) (Charlotte FC)
+
+**Data Analytics: Qualitative & Quantitative Insights Extern** | Beats by Dre  <br>
+*Mar 2025 - June 2025*
+
+**Sports Analytics Undergraduate Researcher** | Centre College  <br>
+*Sep 2024 - Nov 2024* <br>
+Advisor: [Jeffrey Heath](https://www.linkedin.com/in/jeffrey-heath-3294598/)
+
+## Conferences Attended
+
+**American Soccer Insights Summit** | Houston, TX  <br>
+*Jan 2026* | In-person
+
+**Carnegie Mellon Sports Analytics Conference** | Pittsburgh, PA  <br>
+*Oct 2025* | In-person
+
+**SABR Analytics Conference** | Phoenix, AZ  <br>
+*Mar 2025* | Virtual attendance
+
+**Carnegie Mellon Sports Analytics Conference** | Pittsburgh, PA  <br>
+*Nov 2024* | In-person
+
+:::

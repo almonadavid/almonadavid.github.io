@@ -1,17 +1,14 @@
 project:
   type: website
   resources: assets
-
 website:
   title: "David Almona"
   navbar:
-    background: "#000000" 
+    background: "#000000"
     search: true
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: projects.qmd
         text: Projects
       - href: assets/David Almona, Resume.pdf
@@ -20,7 +17,7 @@ website:
       - href: assets/David Almona, CV.pdf
         text: CV
         target: blank
-    right: 
+    right:
       - icon: linkedin
         href: https://www.linkedin.com/in/davidalmona/
         target: blank
@@ -30,15 +27,13 @@ website:
       - icon: file-pdf
         href: assets/David Almona, Resume.pdf
         target: blank
-
 format:
   html:
-    theme: cosmos
+    theme:
+      light: cosmo
+      dark: darkly
     css: styles.css
     toc: true
     link-external-newwindow: true
-
-execute: 
+execute:
   freeze: auto
-
-
