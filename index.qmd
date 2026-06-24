@@ -18,6 +18,10 @@ about:
       text: Github
       href: https://github.com/almonadavid
       target: blank
+    - icon: twitter-x
+      text: (formerly Twitter)
+      href: https://x.com/almondanalysis
+      target: blank
 ---
 
 ::: {.about-content}

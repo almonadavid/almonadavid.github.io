@@ -24,6 +24,9 @@ website:
       - icon: github
         href: https://github.com/almonadavid
         target: blank
+      - icon: twitter-x
+        href: https://x.com/almondanalysis
+        target: blank
       - icon: file-pdf
         href: assets/David Almona, Resume.pdf
         target: blank
