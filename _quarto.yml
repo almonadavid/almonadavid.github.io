@@ -28,7 +28,7 @@ website:
         href: https://x.com/almondanalysis
         target: blank
       - icon: file-pdf
-        href: assets/David Almona, Resume.pdf
+        href: cv.pdf
         target: blank
 format:
   html:
