@@ -11,10 +11,10 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
-      - href: assets/David Almona, Resume.pdf
+      - href: resume.pdf
         text: Resumé
         target: blank
-      - href: assets/David Almona, CV.pdf
+      - href: cv.pdf
         text: CV
         target: blank
     right:
