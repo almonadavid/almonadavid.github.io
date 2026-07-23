@@ -11,9 +11,9 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
-      - href: resume.pdf
-        text: Resumé
-        target: blank
+      # - href: resume.pdf
+      #   text: Resumé
+      #   target: blank
       - href: cv.pdf
         text: CV
         target: blank
