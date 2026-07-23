@@ -36,7 +36,7 @@ I enjoy working on data science and analytical problems, with a particular inter
 
 Right now I'm focused on improving my Python, modeling, and machine learning skills, and keeping up with how the field is evolving.
 
-Feel free to look at my resumé and the projects I've worked on.
+Feel free to look at my CV and the projects I've worked on.
 
 ## Education
 
