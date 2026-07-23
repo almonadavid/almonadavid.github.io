@@ -6,7 +6,7 @@ title: "Projects"
 **2026 FIFA World Cup Prediction** (Jun 2026) <br>
 *Personal Project* <br>
 Using a Poisson regression model and Monte Carlo simulations to project tournament outcomes. <br>
-Finished 4th of 47 entries in a [public prediction contest](https://x.com/Futbolmetrix1/status/2079619706680410181) on X (fka. Twitter),, ranking 2nd by Brier score <br>
+Finished 4th of 47 entries in a [public prediction contest](https://x.com/Futbolmetrix1/status/2079619706680410181) on X (fka. Twitter), ranking 2nd by Brier score <br>
 [Writeup](/projects/fifa_wc_2026/wc2026.html) | [GitHub](https://github.com/almonadavid/fifa-world-cup-2026) 
 
 **Houston Dynamo Forward Recruitment Analysis** (Mar 2026) <br>
