@@ -27,6 +27,9 @@ website:
       - icon: twitter-x
         href: https://x.com/almondanalysis
         target: blank
+      - icon: bluesky
+        href: https://bsky.app/profile/almondanalysis.bsky.social
+        target: blank
       - icon: file-pdf
         href: cv.pdf
         target: blank

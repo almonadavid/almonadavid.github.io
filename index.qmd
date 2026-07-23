@@ -19,8 +19,12 @@ about:
       href: https://github.com/almonadavid
       target: blank
     - icon: twitter-x
-      text: (formerly Twitter)
+      text: (fka. Twitter)
       href: https://x.com/almondanalysis
+      target: blank
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/almondanalysis.bsky.social
       target: blank
 ---
 
