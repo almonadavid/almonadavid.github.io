@@ -19,7 +19,7 @@ about:
       href: https://github.com/almonadavid
       target: blank
     - icon: twitter-x
-      text: (fka. Twitter)
+      text: (X/Twitter)
       href: https://x.com/almondanalysis
       target: blank
     - icon: bluesky
@@ -63,7 +63,7 @@ Supervisor: [Kerry Kokkinogenis](https://www.linkedin.com/in/kerry-kokkinogenis-
 *Jun 2025 - Jul 2025* <br>
 Advisors: [Quang Nguyen](https://www.linkedin.com/in/qntkhvn/), [Daniel Wicker](https://www.linkedin.com/in/daniel-wicker/) (Charlotte FC)
 
-**Data Analytics: Qualitative & Quantitative Insights Extern** | Beats by Dre  <br>
+**Data Analyst: Qualitative & Quantitative Insights** | Beats by Dre, via Extern  <br>
 *Mar 2025 - June 2025*
 
 **Sports Analytics Undergraduate Researcher** | Centre College  <br>
