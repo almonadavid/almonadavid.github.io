@@ -25,7 +25,7 @@ Partner: Sammy Davis <br>
 
 **Forced Turnover: Evaluating Pressing Effectiveness in Soccer** (Jul 2025) <br> 
 *Carnegie Mellon Sports Analytics Camp* <br>
-A machine learning approach to analyze pressing in soccer with player tracking data from 520 MLS matches. <br>
+A machine learning approach to analyze pressing in soccer with player tracking data from MLS matches in 2023 season. <br>
 Partner: Natalie Rayce (Carnegie Mellon University), Daniel Wicker (Charlotte FC) <br>
 [Report](/projects/CMSACamp/Capstone_Report.html) | [Poster](/projects/CMSACamp/CMSACamp_Poster.pdf) | [Slides](/projects/CMSACamp/Final_Presentation.html) | [GitHub](https://github.com/almonadavid/CMU-Soccer-SkillCorner) |
 [Presentation (CMSAC)](https://youtu.be/a8LIkMYDf8Y) | [Presentation (ASI Summit 2026)](https://youtu.be/BM25U4DI7XA)
