@@ -30,7 +30,7 @@ website:
         href: https://bsky.app/profile/almondanalysis.bsky.social
         target: blank
       - icon: file-pdf
-        href: cv.pdf
+        href: resume.pdf
         target: blank
 format:
   html:
