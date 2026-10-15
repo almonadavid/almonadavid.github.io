@@ -18,7 +18,7 @@ I’m focused on improving my Python, modeling, and machine learning skills, and
 ::: {.about-entry-details}
 **Centre College**, Danville, KY
 
-B.S. in Economics and Finance, Data Science minor
+B.S. in Economics & Finance, Data Science minor
 
 *Sep 2022 - May 2026*
 :::
@@ -33,7 +33,7 @@ B.S. in Economics and Finance, Data Science minor
 
 Semester in the City (SITC) Fellow
 
-*Aug 2025 – Dec 2025*
+*Aug 2025 - Dec 2025*
 
 Advisor: [Emily Lagas](https://www.linkedin.com/in/emily-lagas-lcsw/)
 :::
@@ -48,7 +48,7 @@ Advisor: [Emily Lagas](https://www.linkedin.com/in/emily-lagas-lcsw/)
 
 Cambridge A Levels: Physics and Mathematics
 
-*2020 – 2022*
+*2020 - 2022*
 :::
 ::::
 
