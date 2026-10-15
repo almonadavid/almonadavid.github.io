@@ -3,7 +3,7 @@ title: "David Almona"
 body-classes: home-page
 ---
 
-::: {.home-hero}
+:::: {.home-hero}
 
 ::: {.home-copy}
 
@@ -23,7 +23,7 @@ I enjoy working on data science and analytical problems, particularly in sports 
 
 [Explore my projects →](projects.qmd)
 
-:::
+::::
 
 ::: {.home-portrait}
 <img src="assets/headshot.jpg" alt="David Almona speaking at a conference" />
