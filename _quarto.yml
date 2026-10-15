@@ -9,13 +9,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: About
       - href: projects.qmd
         text: Projects
-      # - href: resume.pdf
-      #   text: Resumé
-      #   target: blank
-      - href: cv.pdf
-        text: CV
+      - href: resume.pdf
+        text: Resume
         target: blank
     right:
       - icon: linkedin
@@ -31,7 +30,7 @@ website:
         href: https://bsky.app/profile/almondanalysis.bsky.social
         target: blank
       - icon: file-pdf
-        href: cv.pdf
+        href: resume.pdf
         target: blank
 format:
   html:

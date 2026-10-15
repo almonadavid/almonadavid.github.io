@@ -1,0 +1,177 @@
+---
+title: ""
+body-classes: about-page
+---
+
+## Biography
+
+I’m Almona, born and raised in Lagos, Nigeria. I enjoy working on data science and analytical problems, with a particular interest in sports analytics. Track and field and soccer are the sports I know best, and I’m continuing to build my experience in basketball and football analytics. I’m also a lifelong Tottenham Hotspur fan. #COYS.
+
+I’m focused on improving my Python, modeling, and machine learning skills, and keeping up with how the field is evolving.
+
+## Education
+
+:::: {.about-entry}
+::: {.about-logo}
+<img class="logo-centre" src="assets/logos/centre-logo.jpg" alt="Centre College logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**Centre College**, Danville, KY
+
+B.S. in Economics & Finance, Data Science minor
+
+*Sep 2022 - May 2026*
+:::
+::::
+
+:::: {.about-entry}
+::: {.about-logo}
+<img class="logo-cfsi" src="assets/logos/cfsi-logo.jpeg" alt="College for Social Innovation logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**College for Social Innovation**, Boston, MA
+
+Semester in the City (SITC) Fellow
+
+*Aug 2025 - Dec 2025*
+
+Advisor: [Emily Lagas](https://www.linkedin.com/in/emily-lagas-lcsw/)
+:::
+::::
+
+:::: {.about-entry}
+::: {.about-logo}
+<img class="logo-ala" src="assets/logos/ala-logo.png" alt="African Leadership Academy logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**African Leadership Academy**, Johannesburg, South Africa
+
+Cambridge A Levels: Physics and Mathematics
+
+*2020 - 2022*
+:::
+::::
+
+## Experience
+
+:::: {.about-entry}
+::: {.about-logo}
+<img class="logo-sparks" src="assets/logos/la-sparks-logo.png" alt="Los Angeles Sparks logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**Basketball Analytics Intern**
+
+Los Angeles Sparks
+
+*Feb 2026 - Sep 2026*
+:::
+::::
+
+:::: {.about-entry}
+::: {.about-logo}
+<img class="logo-sbn" src="assets/logos/sbn-logo.png" alt="Sustainable Business Network of Massachusetts logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**Business Program Development Fellow**
+
+Sustainable Business Network of Massachusetts
+
+*Sep 2025 - Dec 2025*
+
+Supervisor: [Kerry Kokkinogenis](https://www.linkedin.com/in/kerry-kokkinogenis-95a92724/)
+:::
+::::
+
+:::: {.about-entry}
+::: {.about-logo}
+<img class="logo-cmu" src="assets/logos/cmu-logo.png" alt="Carnegie Mellon University logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**Undergraduate Research Fellow**
+
+Carnegie Mellon University
+
+*Jun 2025 - Jul 2025*
+
+Advisors: [Quang Nguyen](https://www.linkedin.com/in/qntkhvn/) and [Daniel Wicker](https://www.linkedin.com/in/daniel-wicker/) (Charlotte FC)
+:::
+::::
+
+:::: {.about-entry}
+::: {.about-logo}
+<img class="logo-extern" src="assets/logos/extern-logo.jpeg" alt="Extern logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**Data Analyst: Qualitative & Quantitative Insights**
+
+Beats by Dre, via Extern
+
+*Mar 2025 - Jun 2025*
+:::
+::::
+
+:::: {.about-entry}
+::: {.about-logo}
+<img class="logo-centre-athletics" src="assets/logos/centre-athletics-logo.png" alt="Centre College athletics logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**Sports Analytics Undergraduate Researcher**
+
+Centre College
+
+*Sep 2024 - Nov 2024*
+
+Advisor: [Jeffrey Heath](https://www.linkedin.com/in/jeffrey-heath-3294598/)
+:::
+::::
+
+## Conferences Attended
+
+<div class="about-event">
+  <span class="about-date">Apr 2026</span>
+  <div><strong>ASA Virtual Sports Analytics Conference</strong><span class="about-event-detail">Virtual</span></div>
+</div>
+
+<div class="about-event">
+  <span class="about-date">Jan 2026</span>
+  <div><strong>American Soccer Insights Summit</strong><span class="about-event-detail">Houston, TX · Oral presentation</span></div>
+</div>
+
+<div class="about-event">
+  <span class="about-date">Oct 2025</span>
+  <div><strong>Carnegie Mellon Sports Analytics Conference</strong><span class="about-event-detail">Pittsburgh, PA · Oral presentation</span></div>
+</div>
+
+<div class="about-event">
+  <span class="about-date">Mar 2025</span>
+  <div><strong>SABR Analytics Conference</strong><span class="about-event-detail">Phoenix, AZ · Virtual attendance</span></div>
+</div>
+
+<div class="about-event">
+  <span class="about-date">Nov 2024</span>
+  <div><strong>Carnegie Mellon Sports Analytics Conference</strong><span class="about-event-detail">Pittsburgh, PA · Poster presentation</span></div>
+</div>
+
+## Mentorship & Professional Development
+
+<div class="about-event">
+  <span class="about-date">Mentee</span>
+  <div><strong>WeStutter@Work Mentorship Program</strong></div>
+</div>
+
+<div class="about-event">
+  <span class="about-date">Mentee</span>
+  <div><strong>2026 NFL Big Data Bowl Mentorship Program</strong><span class="about-event-detail">Worked with NFL analytics mentors to analyze player tracking data for the 2026 Big Data Bowl competition.</span></div>
+</div>
+
+<div class="about-event">
+  <span class="about-date">Selected<br>Participant</span>
+  <div><strong>2026 Philadelphia Eagles Virtual Development Series (Business Operations)</strong><span class="about-event-detail">A 5-week informational series learning more about the Philadelphia Eagles organization, potential career opportunities, and the career paths of front office executives in addition to networking and interviewing tips.</span></div>
+</div>
+
+## Awards
+
+<div class="about-event">
+  <span class="about-date">Feb 2026</span>
+  <div><strong>CSDS Conference Travel Award</strong><span class="about-event-detail">Issued by Texas A&amp;M University &amp; Collaborative for Sport Data Science (CSDS)</span></div>
+</div>
