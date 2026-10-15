@@ -183,25 +183,41 @@ body.about-page .about-entry {
   border-bottom: 1px solid var(--bs-border-color-translucent, rgba(128, 128, 128, 0.2));
 }
 
+/* A borderless alignment area lets each logo keep its own natural shape.
+   Adjust --logo-scale on an individual logo class to fine-tune its visual size. */
 body.about-page .about-logo {
-  width: 76px;
-  height: 72px;
+  width: 82px;
+  min-height: 76px;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 0.45rem;
-  background: #ffffff;
-  border: 1px solid #e6e8eb;
-  border-radius: 0.7rem;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
   box-sizing: border-box;
 }
 
 body.about-page .about-logo img {
   display: block;
-  width: 54px;
-  height: 54px;
+  width: 70px;
+  height: 70px;
+  max-width: none;
   object-fit: contain;
+  object-position: center;
+  transform: scale(var(--logo-scale, 1));
+  transform-origin: center;
 }
+
+/* Per-logo optical sizing. These are easy to tune independently. */
+body.about-page .logo-centre { --logo-scale: 1.12; }
+body.about-page .logo-cfsi { --logo-scale: 1.12; }
+body.about-page .logo-ala { --logo-scale: 1.08; }
+body.about-page .logo-sparks { --logo-scale: 1.08; }
+body.about-page .logo-sbn { --logo-scale: 1.12; }
+body.about-page .logo-cmu { --logo-scale: 1.03; }
+body.about-page .logo-extern { --logo-scale: 1.08; }
+body.about-page .logo-centre-athletics { --logo-scale: 1.10; }
 
 body.about-page .about-entry-details {
   min-width: 0;
@@ -259,14 +275,13 @@ body.about-page #quarto-document-content > p:has(+ h2) {
   }
 
   body.about-page .about-logo {
-    width: 60px;
-    height: 60px;
-    padding: 0.35rem;
+    width: 62px;
+    min-height: 62px;
   }
 
   body.about-page .about-logo img {
-    width: 46px;
-    height: 46px;
+    width: 56px;
+    height: 56px;
   }
 
   body.about-page .about-event {
