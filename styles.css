@@ -1,1 +1,19 @@
 /* css styles */
+
+/* Give text-heavy pages a little more room on desktop without making
+   long lines uncomfortable to read. */
+:root {
+  --quarto-body-width: 900px;
+}
+
+/* Let the homepage profile layout breathe on wider screens. */
+.quarto-about-solana {
+  max-width: 1100px;
+  margin-inline: auto;
+}
+
+@media (max-width: 767.98px) {
+  .quarto-about-solana {
+    padding-inline: 0.25rem;
+  }
+}
