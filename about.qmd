@@ -13,7 +13,7 @@ I’m focused on improving my Python, modeling, and machine learning skills, and
 
 :::: {.about-entry}
 ::: {.about-logo}
-<img src="https://www.google.com/s2/favicons?domain=centre.edu&sz=128" alt="Centre College logo" loading="lazy" decoding="async" />
+<img src="assets/logos/centre-logo.jpg" alt="Centre College logo" loading="lazy" decoding="async" />
 :::
 ::: {.about-entry-details}
 **Centre College**, Danville, KY
@@ -26,7 +26,7 @@ B.S. in Economics and Finance, Data Science minor
 
 :::: {.about-entry}
 ::: {.about-logo}
-<img src="https://www.google.com/s2/favicons?domain=collegeforsocialinnovation.org&sz=128" alt="College for Social Innovation logo" loading="lazy" decoding="async" />
+<img src="assets/logos/cfsi-logo.jpeg" alt="College for Social Innovation logo" loading="lazy" decoding="async" />
 :::
 ::: {.about-entry-details}
 **College for Social Innovation**, Boston, MA
@@ -41,7 +41,7 @@ Advisor: [Emily Lagas](https://www.linkedin.com/in/emily-lagas-lcsw/)
 
 :::: {.about-entry}
 ::: {.about-logo}
-<img src="https://www.google.com/s2/favicons?domain=africanleadershipacademy.org&sz=128" alt="African Leadership Academy logo" loading="lazy" decoding="async" />
+<img src="assets/logos/ala-logo.png" alt="African Leadership Academy logo" loading="lazy" decoding="async" />
 :::
 ::: {.about-entry-details}
 **African Leadership Academy**, Johannesburg, South Africa
@@ -56,7 +56,7 @@ Cambridge A Levels: Physics and Mathematics
 
 :::: {.about-entry}
 ::: {.about-logo}
-<img src="https://www.google.com/s2/favicons?domain=sparks.wnba.com&sz=128" alt="Los Angeles Sparks logo" loading="lazy" decoding="async" />
+<img src="assets/logos/la-sparks-logo.png" alt="Los Angeles Sparks logo" loading="lazy" decoding="async" />
 :::
 ::: {.about-entry-details}
 **Basketball Analytics Intern**
@@ -69,7 +69,7 @@ Los Angeles Sparks
 
 :::: {.about-entry}
 ::: {.about-logo}
-<img src="https://www.google.com/s2/favicons?domain=sbnmass.org&sz=128" alt="Sustainable Business Network of Massachusetts logo" loading="lazy" decoding="async" />
+<img src="assets/logos/sbn-logo.png" alt="Sustainable Business Network of Massachusetts logo" loading="lazy" decoding="async" />
 :::
 ::: {.about-entry-details}
 **Business Program Development Fellow**
@@ -84,7 +84,7 @@ Supervisor: [Kerry Kokkinogenis](https://www.linkedin.com/in/kerry-kokkinogenis-
 
 :::: {.about-entry}
 ::: {.about-logo}
-<img src="https://www.google.com/s2/favicons?domain=cmu.edu&sz=128" alt="Carnegie Mellon University logo" loading="lazy" decoding="async" />
+<img src="assets/logos/cmu-logo.png" alt="Carnegie Mellon University logo" loading="lazy" decoding="async" />
 :::
 ::: {.about-entry-details}
 **Undergraduate Research Fellow**
@@ -99,7 +99,7 @@ Advisors: [Quang Nguyen](https://www.linkedin.com/in/qntkhvn/) and [Daniel Wicke
 
 :::: {.about-entry}
 ::: {.about-logo}
-<img src="https://www.google.com/s2/favicons?domain=beatsbydre.com&sz=128" alt="Beats by Dre logo" loading="lazy" decoding="async" />
+<img src="assets/logos/extern-logo.jpeg" alt="Extern logo" loading="lazy" decoding="async" />
 :::
 ::: {.about-entry-details}
 **Data Analyst: Qualitative & Quantitative Insights**
@@ -112,7 +112,7 @@ Beats by Dre, via Extern
 
 :::: {.about-entry}
 ::: {.about-logo}
-<img src="https://www.google.com/s2/favicons?domain=centre.edu&sz=128" alt="Centre College logo" loading="lazy" decoding="async" />
+<img src="assets/logos/centre-athletics-logo.png" alt="Centre College athletics logo" loading="lazy" decoding="async" />
 :::
 ::: {.about-entry-details}
 **Sports Analytics Undergraduate Researcher**
@@ -154,8 +154,33 @@ Advisor: [Jeffrey Heath](https://www.linkedin.com/in/jeffrey-heath-3294598/)
 
 ## Mentorship & Professional Development
 
-...
+<div class="about-event">
+  <span class="about-date">Mentee</span>
+  <div><strong>WeStutter@Work Mentorship Program</strong></div>
+</div>
+
+<div class="about-event">
+  <span class="about-date">Mentee</span>
+  <div>
+    <strong>2026 NFL Big Data Bowl Mentorship Program</strong>
+    <span class="about-event-detail">Selected from a competitive applicant pool</span>
+  </div>
+</div>
+
+<div class="about-event">
+  <span class="about-date">Selected</span>
+  <div>
+    <strong>Philadelphia Eagles Virtual Development Series</strong>
+    <span class="about-event-detail">Participant · Business Operations</span>
+  </div>
+</div>
 
 ## Awards
 
-...
+<div class="about-event">
+  <span class="about-date">Feb 2026</span>
+  <div>
+    <strong>CSDS Conference Travel Award</strong>
+    <span class="about-event-detail">Issued by Texas A&M University &amp; Collaborative for Sport Data Science (CSDS)</span>
+  </div>
+</div>
