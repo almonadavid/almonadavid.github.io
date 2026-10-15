@@ -1,6 +1,9 @@
 ---
-title: "About"
+title: ""
+body-classes: about-page
 ---
+
+## Biography
 
 I’m Almona, born and raised in Lagos, Nigeria. I enjoy working on data science and analytical problems, with a particular interest in sports analytics. Track and field and soccer are the sports I know best, and I’m continuing to build my experience in basketball and football analytics. I’m also a lifelong Tottenham Hotspur fan. #COYS.
 
@@ -8,49 +11,151 @@ I’m focused on improving my Python, modeling, and machine learning skills, and
 
 ## Education
 
-**Centre College**, Danville, KY  <br>
-B.S. in Economics and Finance, Data Science minor | *May 2026*
+:::: {.about-entry}
+::: {.about-logo}
+<img src="https://www.google.com/s2/favicons?domain=centre.edu&sz=128" alt="Centre College logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**Centre College**, Danville, KY
 
-**College for Social Innovation**, Boston, MA <br>
-Semester in the City (SITC) Fellow | *Aug 2025 - Dec 2025* <br>
+B.S. in Economics and Finance, Data Science minor
+
+*May 2026*
+:::
+::::
+
+:::: {.about-entry}
+::: {.about-logo}
+<img src="https://www.google.com/s2/favicons?domain=collegeforsocialinnovation.org&sz=128" alt="College for Social Innovation logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**College for Social Innovation**, Boston, MA
+
+Semester in the City (SITC) Fellow
+
+*Aug 2025 – Dec 2025*
+
 Advisor: [Emily Lagas](https://www.linkedin.com/in/emily-lagas-lcsw/)
+:::
+::::
 
-**African Leadership Academy**, Johannesburg, South Africa  <br>
-Cambridge A Levels: Physics and Mathematics | *2020 - 2022*
+:::: {.about-entry}
+::: {.about-logo}
+<img src="https://www.google.com/s2/favicons?domain=africanleadershipacademy.org&sz=128" alt="African Leadership Academy logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**African Leadership Academy**, Johannesburg, South Africa
+
+Cambridge A Levels: Physics and Mathematics
+
+*2020 – 2022*
+:::
+::::
 
 ## Experience
 
-**Basketball Analytics Intern** | Los Angeles Sparks  <br>
-*Feb 2026 - Present*
+:::: {.about-entry}
+::: {.about-logo}
+<img src="https://www.google.com/s2/favicons?domain=sparks.wnba.com&sz=128" alt="Los Angeles Sparks logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**Basketball Analytics Intern**
 
-**Business Program Development Fellow** | Sustainable Business Network of Massachusetts  <br>
-*Sep 2025 - Dec 2025* <br>
+Los Angeles Sparks
+
+*Feb 2026 – Present*
+:::
+::::
+
+:::: {.about-entry}
+::: {.about-logo}
+<img src="https://www.google.com/s2/favicons?domain=sbnmass.org&sz=128" alt="Sustainable Business Network of Massachusetts logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**Business Program Development Fellow**
+
+Sustainable Business Network of Massachusetts
+
+*Sep 2025 – Dec 2025*
+
 Supervisor: [Kerry Kokkinogenis](https://www.linkedin.com/in/kerry-kokkinogenis-95a92724/)
+:::
+::::
 
-**Undergraduate Research Fellow** | Carnegie Mellon University  <br>
-*Jun 2025 - Jul 2025* <br>
-Advisors: [Quang Nguyen](https://www.linkedin.com/in/qntkhvn/), [Daniel Wicker](https://www.linkedin.com/in/daniel-wicker/) (Charlotte FC)
+:::: {.about-entry}
+::: {.about-logo}
+<img src="https://www.google.com/s2/favicons?domain=cmu.edu&sz=128" alt="Carnegie Mellon University logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**Undergraduate Research Fellow**
 
-**Data Analyst: Qualitative & Quantitative Insights** | Beats by Dre, via Extern  <br>
-*Mar 2025 - June 2025*
+Carnegie Mellon University
 
-**Sports Analytics Undergraduate Researcher** | Centre College  <br>
-*Sep 2024 - Nov 2024* <br>
+*Jun 2025 – Jul 2025*
+
+Advisors: [Quang Nguyen](https://www.linkedin.com/in/qntkhvn/) and [Daniel Wicker](https://www.linkedin.com/in/daniel-wicker/) (Charlotte FC)
+:::
+::::
+
+:::: {.about-entry}
+::: {.about-logo}
+<img src="https://www.google.com/s2/favicons?domain=beatsbydre.com&sz=128" alt="Beats by Dre logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**Data Analyst: Qualitative & Quantitative Insights**
+
+Beats by Dre, via Extern
+
+*Mar 2025 – Jun 2025*
+:::
+::::
+
+:::: {.about-entry}
+::: {.about-logo}
+<img src="https://www.google.com/s2/favicons?domain=centre.edu&sz=128" alt="Centre College logo" loading="lazy" decoding="async" />
+:::
+::: {.about-entry-details}
+**Sports Analytics Undergraduate Researcher**
+
+Centre College
+
+*Sep 2024 – Nov 2024*
+
 Advisor: [Jeffrey Heath](https://www.linkedin.com/in/jeffrey-heath-3294598/)
+:::
+::::
 
 ## Conferences Attended
 
-**ASA Virtual Sports Analytics Conference** | Virtual <br>
-*Apr 2026*
+<div class="about-event">
+  <span class="about-date">Apr 2026</span>
+  <div><strong>ASA Virtual Sports Analytics Conference</strong><span class="about-event-detail">Virtual</span></div>
+</div>
 
-**American Soccer Insights Summit** | Houston, TX  <br>
-*Jan 2026* | Oral presentation
+<div class="about-event">
+  <span class="about-date">Jan 2026</span>
+  <div><strong>American Soccer Insights Summit</strong><span class="about-event-detail">Houston, TX · Oral presentation</span></div>
+</div>
 
-**Carnegie Mellon Sports Analytics Conference** | Pittsburgh, PA  <br>
-*Oct 2025* | Oral presentation
+<div class="about-event">
+  <span class="about-date">Oct 2025</span>
+  <div><strong>Carnegie Mellon Sports Analytics Conference</strong><span class="about-event-detail">Pittsburgh, PA · Oral presentation</span></div>
+</div>
 
-**SABR Analytics Conference** | Phoenix, AZ  <br>
-*Mar 2025* | Virtual attendance
+<div class="about-event">
+  <span class="about-date">Mar 2025</span>
+  <div><strong>SABR Analytics Conference</strong><span class="about-event-detail">Phoenix, AZ · Virtual attendance</span></div>
+</div>
 
-**Carnegie Mellon Sports Analytics Conference** | Pittsburgh, PA  <br>
-*Nov 2024* | Poster presentation
+<div class="about-event">
+  <span class="about-date">Nov 2024</span>
+  <div><strong>Carnegie Mellon Sports Analytics Conference</strong><span class="about-event-detail">Pittsburgh, PA · Poster presentation</span></div>
+</div>
+
+## Mentorship & Professional Development
+
+...
+
+## Awards
+
+...
