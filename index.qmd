@@ -1,5 +1,6 @@
 ---
 title: "David Almona"
+body-classes: home-page
 about:
   template: solana
   image: assets/headshot.jpg
