@@ -1,5 +1,6 @@
 ---
 title: "David Almona"
+page-layout: full
 body-classes: home-page
 ---
 
