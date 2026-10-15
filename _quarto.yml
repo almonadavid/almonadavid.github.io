@@ -5,15 +5,18 @@ website:
   title: "David Almona"
   navbar:
     background: "#000000"
-    search: true
+    search: false
     left:
-      - href: index.qmd
+      - href: "#top"
         text: Home
-      - href: projects.qmd
+      - href: "#education"
+        text: Education
+      - href: "#experience"
+        text: Experience
+      - href: "#conferences"
+        text: Conferences
+      - href: "#projects"
         text: Projects
-      # - href: resume.pdf
-      #   text: Resumé
-      #   target: blank
       - href: cv.pdf
         text: CV
         target: blank
@@ -39,7 +42,7 @@ format:
       light: cosmo
       dark: darkly
     css: styles.css
-    toc: true
+    toc: false
     link-external-newwindow: true
 execute:
   freeze: auto
