@@ -5,28 +5,26 @@ body-classes: home-page
 
 :::: {.home-hero}
 
+::: {.home-portrait}
+<img src="assets/headshot.jpg" alt="David Almona speaking at a conference" />
+:::
+
 ::: {.home-copy}
 
 # David Almona
 
 <div class="home-socials" aria-label="Social links">
-  <a class="home-social-link" href="https://www.linkedin.com/in/davidalmona/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-  <a class="home-social-link" href="mailto:almonadavid@gmail.com">Email</a>
-  <a class="home-social-link" href="https://github.com/almonadavid" target="_blank" rel="noopener noreferrer">GitHub</a>
-  <a class="home-social-link" href="https://x.com/almondanalysis" target="_blank" rel="noopener noreferrer">X</a>
-  <a class="home-social-link" href="https://bsky.app/profile/almondanalysis.bsky.social" target="_blank" rel="noopener noreferrer">Bluesky</a>
+  <a class="home-social-link" href="https://www.linkedin.com/in/davidalmona/" target="_blank" rel="noopener noreferrer"><i class="bi bi-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>
+  <a class="home-social-link" href="mailto:almonadavid@gmail.com"><i class="bi bi-envelope-at" aria-hidden="true"></i><span>Email</span></a>
+  <a class="home-social-link" href="https://github.com/almonadavid" target="_blank" rel="noopener noreferrer"><i class="bi bi-github" aria-hidden="true"></i><span>GitHub</span></a>
+  <a class="home-social-link" href="https://x.com/almondanalysis" target="_blank" rel="noopener noreferrer"><i class="bi bi-twitter-x" aria-hidden="true"></i><span>X</span></a>
+  <a class="home-social-link" href="https://bsky.app/profile/almondanalysis.bsky.social" target="_blank" rel="noopener noreferrer"><i class="bi bi-bluesky" aria-hidden="true"></i><span>Bluesky</span></a>
 </div>
 
 Welcome! I graduated from Centre College, where I studied Economics and Finance and minored in Data Science.
 
 I enjoy working on data science and analytical problems, particularly in sports analytics. I use R, Python, SQL, and business intelligence tools across personal projects, and have experience in research, internships, and conference presentations.
 
-[Explore my projects →](projects.qmd)
-
-:::
-
-::: {.home-portrait}
-<img src="assets/headshot.jpg" alt="David Almona speaking at a conference" />
 :::
 
 ::::
