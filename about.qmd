@@ -161,12 +161,12 @@ Advisor: [Jeffrey Heath](https://www.linkedin.com/in/jeffrey-heath-3294598/)
 
 <div class="about-event">
   <span class="about-date">Mentee</span>
-  <div><strong>2026 NFL Big Data Bowl Mentorship Program</strong><span class="about-event-detail">Selected from a competitive applicant pool</span></div>
+  <div><strong>2026 NFL Big Data Bowl Mentorship Program</strong><span class="about-event-detail">Worked with NFL analytics mentors to analyze player tracking data for the 2026 Big Data Bowl competition.</span></div>
 </div>
 
 <div class="about-event">
-  <span class="about-date">Selected</span>
-  <div><strong>Philadelphia Eagles Virtual Development Series</strong><span class="about-event-detail">Participant · Business Operations</span></div>
+  <span class="about-date">Selected<br>Participant</span>
+  <div><strong>2026 Philadelphia Eagles Virtual Development Series (Business Operations)</strong><span class="about-event-detail">A 5-week informational series learning more about the Philadelphia Eagles organization, potential career opportunities, and the career paths of front office executives in addition to networking and interviewing tips.</span></div>
 </div>
 
 ## Awards

@@ -211,7 +211,7 @@ body.about-page .about-logo img {
 
 /* Per-logo optical sizing. These are easy to tune independently. */
 body.about-page .logo-centre { --logo-scale: 1.12; }
-body.about-page .logo-cfsi { --logo-scale: 1.12; }
+body.about-page .logo-cfsi { --logo-scale: 1.14; }
 body.about-page .logo-ala { --logo-scale: 1.08; }
 body.about-page .logo-sparks { --logo-scale: 1.02; }
 body.about-page .logo-sbn { --logo-scale: 1.06; }
