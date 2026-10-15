@@ -6,23 +6,34 @@
   --quarto-body-width: 900px;
 }
 
-/* Make the homepage read as a centered landing-page hero. The about
-   template keeps the text and portrait in their existing side-by-side
-   layout on desktop; align-items centers both within the available height. */
-.quarto-about-solana {
+/* Center the homepage hero in the viewport below the navigation bar.
+   Scope this to Home so the About and Projects pages remain unchanged. */
+body.home-page #quarto-document-content {
+  min-height: calc(100vh - 3.25rem);
+  min-height: calc(100svh - 3.25rem);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-sizing: border-box;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+body.home-page .quarto-about-solana {
+  width: 100%;
   max-width: 1100px;
-  min-height: calc(100vh - 6.5rem);
-  min-height: calc(100svh - 6.5rem);
   margin-inline: auto;
   align-items: center;
   box-sizing: border-box;
-  padding-block: 1.5rem;
 }
 
 @media (max-width: 767.98px) {
-  .quarto-about-solana {
-    min-height: calc(100svh - 5rem);
-    padding-inline: 0.25rem;
-    padding-block: 1.5rem;
+  body.home-page #quarto-document-content {
+    min-height: calc(100svh - 3.25rem);
+    padding-inline: 1rem;
+  }
+
+  body.home-page .quarto-about-solana {
+    padding-inline: 0;
   }
 }
