@@ -1,69 +1,172 @@
 ---
 title: "Projects"
+body-classes: projects-page
 ---
 
-### 2026
-**2026 FIFA World Cup Prediction** (Jun 2026) <br>
-*Personal Project* <br>
-Using a Poisson regression model and Monte Carlo simulations to project tournament outcomes. <br>
-Finished 4th of 47 entries in a [public prediction contest](https://x.com/Futbolmetrix1/status/2079619706680410181) on X (fka. Twitter), ranking 2nd by Brier score <br>
-[Writeup](/projects/fifa_wc_2026/wc2026.html) | [GitHub](https://github.com/almonadavid/fifa-world-cup-2026) 
+A selection of my work in sports analytics, machine learning, forecasting, and applied data analysis.
 
-**Houston Dynamo Forward Recruitment Analysis** (Mar 2026) <br>
-*Take-Home Task* <br>
-Analyzed 2024 MLS season data from SkillCorner and Wyscout to identify and recommend a forward signing based on physical, athletic, and production metrics <br>
-[Slides](https://docs.google.com/presentation/d/111BVuDDL3brOw3tR36Qm25hJabygVsOPsILPzRKu7hw/edit?usp=sharing) | [GitHub](https://github.com/almonadavid/dynamo-data-analyst-task)
+## Featured Projects
 
+::: {.project-grid}
+
+:::: {.project-card}
+::: {.project-meta}
+Jun 2026 · Personal Project
+:::
+
+### 2026 FIFA World Cup Prediction
+
+Using a Poisson regression model and Monte Carlo simulations to project tournament outcomes.
+
+**Result:** Finished 4th of 47 entries in a [public prediction contest](https://x.com/Futbolmetrix1/status/2079619706680410181) on X, ranking 2nd by Brier score.
+
+::: {.project-links}
+[Write-up](/projects/fifa_wc_2026/wc2026.html) · [GitHub](https://github.com/almonadavid/fifa-world-cup-2026)
+:::
+::::
+
+:::: {.project-card}
+::: {.project-meta}
+Mar 2026 · Take-Home Task
+:::
+
+### Houston Dynamo Forward Recruitment Analysis
+
+Analyzed 2024 MLS season data from SkillCorner and Wyscout to identify and recommend a forward signing based on physical, athletic, and production metrics.
+
+::: {.project-links}
+[Slides](https://docs.google.com/presentation/d/111BVuDDL3brOw3tR36Qm25hJabygVsOPsILPzRKu7hw/edit?usp=sharing) · [GitHub](https://github.com/almonadavid/dynamo-data-analyst-task)
+:::
+::::
+
+:::: {.project-card}
+::: {.project-meta}
+Dec 2025 · 2026 NFL Big Data Bowl Submission
+:::
+
+### Chasing Imperfect Passes: Into the Life of a Receiver
+
+Evaluating how a quarterback's throw makes life easier or harder for the receiver by quantifying receiver adjustments while the ball is in the air.
+
+**Partner:** Sammy Davis
+
+::: {.project-links}
+[Write-up](https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-analytics/writeups/chasing-imperfect-passes) · [GitHub](https://github.com/almonadavid/BigDataBowl2026)
+:::
+::::
+
+:::: {.project-card}
+::: {.project-meta}
+Jul 2025 · Carnegie Mellon Sports Analytics Camp
+:::
+
+### Forced Turnover: Evaluating Pressing Effectiveness in Soccer
+
+A machine learning approach to analyze pressing in soccer with player-tracking data from MLS matches in the 2023 season.
+
+**Partners:** Natalie Rayce (Carnegie Mellon University) and Daniel Wicker (Charlotte FC)
+
+::: {.project-links}
+[Report](/projects/CMSACamp/Capstone_Report.html) · [Poster](/projects/CMSACamp/CMSACamp_Poster.pdf) · [Slides](/projects/CMSACamp/Final_Presentation.html) · [GitHub](https://github.com/almonadavid/CMU-Soccer-SkillCorner)
+
+[Presentation (CMSAC)](https://youtu.be/a8LIkMYDf8Y) · [Presentation (ASI Summit 2026)](https://youtu.be/BM25U4DI7XA)
+:::
+::::
+
+:::
+
+## More Projects
 
 ### 2025
 
-**Chasing Imperfect Passes: Into the Life of a Receiver** (Dec 2025) <br>
-*2026 NFL Big Data Bowl Submission* <br>
-Evaluating how a QB's throw makes life easier or harder for the receiver, by quantifying receiver adjustments while the ball is in the air. <br>
-Partner: Sammy Davis <br>
-[Writeup](https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-analytics/writeups/chasing-imperfect-passes) | [GitHub](https://github.com/almonadavid/BigDataBowl2026)
+::: {.project-list}
 
-**Forced Turnover: Evaluating Pressing Effectiveness in Soccer** (Jul 2025) <br> 
-*Carnegie Mellon Sports Analytics Camp* <br>
-A machine learning approach to analyze pressing in soccer with player tracking data from MLS matches in 2023 season. <br>
-Partner: Natalie Rayce (Carnegie Mellon University), Daniel Wicker (Charlotte FC) <br>
-[Report](/projects/CMSACamp/Capstone_Report.html) | [Poster](/projects/CMSACamp/CMSACamp_Poster.pdf) | [Slides](/projects/CMSACamp/Final_Presentation.html) | [GitHub](https://github.com/almonadavid/CMU-Soccer-SkillCorner) |
-[Presentation (CMSAC)](https://youtu.be/a8LIkMYDf8Y) | [Presentation (ASI Summit 2026)](https://youtu.be/BM25U4DI7XA)
+:::: {.project-list-entry}
+::: {.project-meta}
+Jun 2025 · Beats by Dre, via Extern
+:::
 
-**Data Analytics Externship | Consumer Insights & Strategic Decision-Making** (Jun 2025) <br> 
-*Beats by Dre, via Extern* <br>
-An analysis on Beats' in the wireless speaker market, analyzing 4,628 consumer survey responses for business recommendations. <br>
-[Slides](/projects/Externship/Beats-Wireless-Speaker-Strategic-Assessment.pdf) | [Dashboard](https://claude.ai/public/artifacts/2f0ea25a-b784-4668-886c-b26ff4c6f1ce)
+### Data Analytics Externship | Consumer Insights & Strategic Decision-Making
 
-**NBA Honors Selections 2024-25 Season** (May 2025) <br>
-Predicting NBA honors (All-NBA, All-Defensive, All-Rookie) using regular-season box score statistics. <br>
-Partner: Vedant Bhong <br>
-[Slides](/projects/dsc230_project/NBA_Honors_Selections.pdf) | [GitHub](https://github.com/almonadavid/NBA-Honors-Selections-2024-25-season) | [College News](https://www.centre.edu/news/students-predict-nba-honors-winners-teams)
+An analysis of Beats' position in the wireless speaker market, using 4,628 consumer survey responses to develop business recommendations.
 
-**Predicting MLB Player Usage** (Feb 2025) <br>
-*Cincinnati Reds Baseball Analytics Student Hackathon Submission* <br>
-Challenge: Predict the total playing time (PA/BF) players will receive in 2024. <br>
-[Kaggle Notebook](https://www.kaggle.com/code/almona/david-almona-cincinnati-reds-hackathon) | [GitHub](https://github.com/almonadavid/Cincinnati-Reds-Hackathon-2025)
+::: {.project-links}
+[Slides](/projects/Externship/Beats-Wireless-Speaker-Strategic-Assessment.pdf) · [Dashboard](https://claude.ai/public/artifacts/2f0ea25a-b784-4668-886c-b26ff4c6f1ce)
+:::
+::::
 
+:::: {.project-list-entry}
+::: {.project-meta}
+May 2025 · Partner: Vedant Bhong
+:::
 
+### NBA Honors Selections 2024–25 Season
+
+Predicting NBA honors (All-NBA, All-Defensive, All-Rookie) using regular-season box score statistics.
+
+::: {.project-links}
+[Slides](/projects/dsc230_project/NBA_Honors_Selections.pdf) · [GitHub](https://github.com/almonadavid/NBA-Honors-Selections-2024-25-season) · [College News](https://www.centre.edu/news/students-predict-nba-honors-winners-teams)
+:::
+::::
+
+:::: {.project-list-entry}
+::: {.project-meta}
+Feb 2025 · Cincinnati Reds Baseball Analytics Student Hackathon
+:::
+
+### Predicting MLB Player Usage
+
+Challenge: Predict the total playing time (PA/BF) players will receive in 2024.
+
+::: {.project-links}
+[Kaggle Notebook](https://www.kaggle.com/code/almona/david-almona-cincinnati-reds-hackathon) · [GitHub](https://github.com/almonadavid/Cincinnati-Reds-Hackathon-2025)
+:::
+::::
+
+:::
 
 ### 2024
 
-**National Olympic Performance: Determinants of Medal Counts** (Dec 2024) <br>
-*Econometrics Final Paper* <br>
-[Paper](/projects/Econometrics/AlmonaDPaper.pdf) | [GitHub](https://github.com/almonadavid/econometrics)
+::: {.project-list}
 
+:::: {.project-list-entry}
+::: {.project-meta}
+Dec 2024 · Econometrics Final Paper
+:::
 
-**Minesweeper** (Dec 2024) <br>
-My attempt at recreating the classic Minesweeper game using Python. <br>
+### National Olympic Performance: Determinants of Medal Counts
+
+::: {.project-links}
+[Paper](/projects/Econometrics/AlmonaDPaper.pdf) · [GitHub](https://github.com/almonadavid/econometrics)
+:::
+::::
+
+:::: {.project-list-entry}
+::: {.project-meta}
+Dec 2024 · Personal Project
+:::
+
+### Minesweeper
+
+My attempt at recreating the classic Minesweeper game using Python.
+
+::: {.project-links}
 [GitHub](https://github.com/almonadavid/Minesweeper)
+:::
+::::
 
+:::: {.project-list-entry}
+::: {.project-meta}
+Nov 2024
+:::
 
-**Centre College Women’s Soccer Analytics Dashboard** (Nov 2024) <br>
-Analyzed shot data for a Division III women’s soccer team using RShiny to build an interactive dashboard. <br>
-*Presented during poster session at the Carnegie Mellon Sports Analytics Conference 2024* <br>
+### Centre College Women’s Soccer Analytics Dashboard
+
+Analyzed shot data for a Division III women’s soccer team using RShiny to build an interactive dashboard. Presented during the poster session at the Carnegie Mellon Sports Analytics Conference 2024.
+
+::: {.project-links}
 [GitHub](https://github.com/almonadavid/centre-college-womens-soccer)
+:::
+::::
 
-
-
-
+:::
