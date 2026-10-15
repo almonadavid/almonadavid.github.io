@@ -3,7 +3,7 @@ title: "David Almona"
 about:
   template: solana
   image: assets/headshot.jpg
-  image-shape: round # changing image shape
+  image-shape: round
   image-width: 16em
   links:
     - icon: linkedin
@@ -15,11 +15,11 @@ about:
       href: "mailto:almonadavid@gmail.com"
       target: blank
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/almonadavid
       target: blank
     - icon: twitter-x
-      text: (X/Twitter)
+      text: X
       href: https://x.com/almondanalysis
       target: blank
     - icon: bluesky
@@ -30,61 +30,10 @@ about:
 
 ::: {.about-content}
 
-Welcome! I'm Almona, born and raised in Lagos, Nigeria. I'm a recent graduate of Centre College, where I studied Economics with a minor in Data Science.
+Welcome! I graduated from Centre College, where I studied Economics and Finance and minored in Data Science.
 
-I enjoy working on data science and analytical problems, with a particular interest in sports analytics. Track and field and soccer are the sports I know best, and I'm still getting comfortable with basketball and football on the analytics side. Also a lifelong Tottenham Hotspur fan. #COYS.
+I enjoy working on data science and analytical problems, particularly in sports analytics. I use R, Python, SQL, and business intelligence tools across personal projects, and have experience in research, internships, and conference presentations.
 
-Right now I'm focused on improving my Python, modeling, and machine learning skills, and keeping up with how the field is evolving.
-
-Feel free to look at my CV and the projects I've worked on.
-
-## Education
-
-**Centre College**, Danville, KY  <br>
-BS in Economics & Finance, Data Science minor | *Expected May 2026*
-
-**College for Social Innovation**, Boston, MA <br>
-Semester in the City (SITC) Fellow | *Aug 2025 - Dec 2025* <br>
-Advisor: [Emily Lagas](https://www.linkedin.com/in/emily-lagas-lcsw/)
-
-**African Leadership Academy**, Johannesburg, South Africa  <br>
-Cambridge A Levels: Physics and Mathematics | *2020 - 2022*
-
-## Experience
-
-**Basketball Analytics Intern** | Los Angeles Sparks  <br>
-*Feb 2026 - Present*
-
-**Business Program Development Fellow** | Sustainable Business Network of Massachusetts  <br>
-*Sep 2025 - Dec 2025* <br>
-Supervisor: [Kerry Kokkinogenis](https://www.linkedin.com/in/kerry-kokkinogenis-95a92724/)
-
-**Undergraduate Research Fellow** | Carnegie Mellon University  <br>
-*Jun 2025 - Jul 2025* <br>
-Advisors: [Quang Nguyen](https://www.linkedin.com/in/qntkhvn/), [Daniel Wicker](https://www.linkedin.com/in/daniel-wicker/) (Charlotte FC)
-
-**Data Analyst: Qualitative & Quantitative Insights** | Beats by Dre, via Extern  <br>
-*Mar 2025 - June 2025*
-
-**Sports Analytics Undergraduate Researcher** | Centre College  <br>
-*Sep 2024 - Nov 2024* <br>
-Advisor: [Jeffrey Heath](https://www.linkedin.com/in/jeffrey-heath-3294598/)
-
-## Conferences Attended
-
-**ASA Virtual Sports Analytics Conference** | Virtual <br>
-*Apr 2026*
-
-**American Soccer Insights Summit** | Houston, TX  <br>
-*Jan 2026* | Oral presentation
-
-**Carnegie Mellon Sports Analytics Conference** | Pittsburgh, PA  <br>
-*Oct 2025* | Oral presentation
-
-**SABR Analytics Conference** | Phoenix, AZ  <br>
-*Mar 2025* | Virtual attendance
-
-**Carnegie Mellon Sports Analytics Conference** | Pittsburgh, PA  <br>
-*Nov 2024* | Poster presentation
+Explore the Projects page to see some of that work.
 
 :::
