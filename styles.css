@@ -1,1 +1,415 @@
 /* css styles */
+
+/* Default content width for text-heavy pages. */
+:root {
+  --quarto-body-width: 900px;
+}
+
+/* Home uses a custom, responsive, single-column hero layout. */
+body.home-page {
+  --quarto-body-width: 1100px;
+}
+
+body.home-page .quarto-title-block {
+  display: none;
+}
+
+body.home-page #quarto-document-content {
+  width: 100%;
+  max-width: 1100px;
+  min-height: calc(100vh - 3.25rem);
+  min-height: calc(100svh - 3.25rem);
+  margin-inline: auto;
+  padding: 2rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+body.home-page .home-hero {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+body.home-page .home-portrait {
+  width: clamp(10.5rem, 18vw, 15rem);
+  margin: 0 auto;
+  flex: 0 0 auto;
+}
+
+body.home-page .home-portrait img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+body.home-page .home-copy {
+  width: 100%;
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+body.home-page .home-copy h1 {
+  margin-top: 0;
+  margin-bottom: 0.85rem;
+  text-align: center;
+  font-size: clamp(2.2rem, 3.6vw, 3rem);
+}
+
+body.home-page .home-socials {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 1.35rem;
+}
+
+body.home-page .home-social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  padding: 0.38rem 0.65rem;
+  border: 1px solid var(--bs-border-color);
+  border-radius: 0.35rem;
+  color: var(--bs-body-color);
+  font-size: 0.92rem;
+  line-height: 1.3;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+
+body.home-page .home-social-link i {
+  font-size: 1rem;
+  line-height: 1;
+}
+
+body.home-page .home-social-link:hover {
+  background: var(--bs-tertiary-bg);
+  border-color: var(--bs-secondary-color);
+}
+
+body.home-page .home-copy p {
+  max-width: 720px;
+  margin: 0 auto 0.9rem;
+  line-height: 1.7;
+}
+
+body.home-page .home-copy p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 767.98px) {
+  body.home-page #quarto-document-content {
+    min-height: calc(100svh - 3.25rem);
+    padding: 1.5rem 1.1rem;
+  }
+
+  body.home-page .home-hero {
+    gap: 1rem;
+  }
+
+  body.home-page .home-portrait {
+    width: clamp(9rem, 40vw, 12rem);
+  }
+
+  body.home-page .home-copy h1 {
+    font-size: 2.2rem;
+  }
+
+  body.home-page .home-socials {
+    gap: 0.4rem;
+    margin-bottom: 1.1rem;
+  }
+
+  body.home-page .home-social-link {
+    padding: 0.35rem 0.55rem;
+    font-size: 0.88rem;
+  }
+}
+
+@media (max-height: 700px) {
+  body.home-page #quarto-document-content {
+    justify-content: flex-start;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body.home-page .home-social-link {
+    transition: none;
+  }
+}
+
+
+/* About page: restrained logo-and-text rows for education and experience. */
+body.about-page .quarto-title-block {
+  display: none;
+}
+
+body.about-page #quarto-document-content {
+  max-width: 980px;
+  margin-inline: auto;
+}
+
+body.about-page #quarto-document-content h2 {
+  margin-top: 2.25rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid var(--bs-border-color);
+  font-size: clamp(1.35rem, 2vw, 1.65rem);
+}
+
+body.about-page #quarto-document-content > p {
+  line-height: 1.75;
+  max-width: 900px;
+}
+
+body.about-page .about-entry {
+  display: grid;
+  grid-template-columns: 82px minmax(0, 1fr);
+  align-items: start;
+  gap: 1.1rem;
+  margin: 0;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--bs-border-color-translucent, rgba(128, 128, 128, 0.2));
+}
+
+/* A borderless alignment area lets each logo keep its own natural shape.
+   Adjust --logo-scale on an individual logo class to fine-tune its visual size. */
+body.about-page .about-logo {
+  width: 82px;
+  min-height: 76px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  box-sizing: border-box;
+}
+
+body.about-page .about-logo img {
+  display: block;
+  width: 70px;
+  height: 70px;
+  max-width: none;
+  object-fit: contain;
+  object-position: center;
+  transform: scale(var(--logo-scale, 1));
+  transform-origin: center;
+}
+
+/* Per-logo optical sizing. These are easy to tune independently. */
+body.about-page .logo-centre { --logo-scale: 1.12; }
+body.about-page .logo-cfsi { --logo-scale: 1.14; }
+body.about-page .logo-ala { --logo-scale: 1.08; }
+body.about-page .logo-sparks { --logo-scale: 1.02; }
+body.about-page .logo-sbn { --logo-scale: 1.06; }
+body.about-page .logo-cmu { --logo-scale: 0.90; }
+body.about-page .logo-extern { --logo-scale: 1.00; }
+body.about-page .logo-centre-athletics { --logo-scale: 1.04; }
+
+body.about-page .about-entry-details {
+  min-width: 0;
+  line-height: 1.55;
+}
+
+body.about-page .about-entry-details p {
+  margin: 0.15rem 0 0.35rem;
+}
+
+body.about-page .about-entry-details p:last-child {
+  margin-bottom: 0;
+}
+
+body.about-page .about-entry-details strong {
+  font-size: 1.02rem;
+}
+
+body.about-page .about-event {
+  display: grid;
+  grid-template-columns: 6.25rem minmax(0, 1fr);
+  gap: 1rem;
+  align-items: start;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid var(--bs-border-color-translucent, rgba(128, 128, 128, 0.2));
+}
+
+body.about-page .about-date {
+  display: inline-block;
+  padding-top: 0.1rem;
+  color: var(--bs-secondary-color);
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+body.about-page .about-event-detail {
+  display: block;
+  margin-top: 0.2rem;
+  color: var(--bs-secondary-color);
+  font-size: 0.94rem;
+}
+
+body.about-page #quarto-document-content > p:has(+ h2) {
+  margin-bottom: 1.1rem;
+}
+
+@media (max-width: 575.98px) {
+  body.about-page #quarto-document-content {
+    padding-inline: 1rem;
+  }
+
+  body.about-page .about-entry {
+    grid-template-columns: 62px minmax(0, 1fr);
+    gap: 0.8rem;
+  }
+
+  body.about-page .about-logo {
+    width: 62px;
+    min-height: 62px;
+  }
+
+  body.about-page .about-logo img {
+    width: 56px;
+    height: 56px;
+  }
+
+  body.about-page .about-event {
+    grid-template-columns: 5.2rem minmax(0, 1fr);
+    gap: 0.7rem;
+  }
+
+  body.about-page .about-date,
+  body.about-page .about-event-detail {
+    font-size: 0.86rem;
+  }
+}
+
+
+/* Projects page: text-first featured work, followed by a compact archive. */
+body.projects-page #quarto-document-content {
+  max-width: 1100px;
+  margin-inline: auto;
+}
+
+body.projects-page #quarto-document-content > p:first-of-type {
+  max-width: 850px;
+  margin-bottom: 2rem;
+  line-height: 1.7;
+  color: var(--bs-secondary-color);
+}
+
+body.projects-page #quarto-document-content h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.1rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid var(--bs-border-color);
+  font-size: clamp(1.4rem, 2vw, 1.7rem);
+}
+
+body.projects-page #quarto-document-content h3 {
+  margin-top: 0.2rem;
+  margin-bottom: 0.55rem;
+  font-size: 1.18rem;
+  line-height: 1.35;
+}
+
+body.projects-page .project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  align-items: stretch;
+}
+
+body.projects-page .project-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: 1.25rem 1.3rem 1.1rem;
+  border: 1px solid var(--bs-border-color);
+  border-radius: 0.75rem;
+  background: var(--bs-body-bg);
+}
+
+body.projects-page .project-meta {
+  margin-bottom: 0.75rem;
+  color: var(--bs-secondary-color);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.045em;
+  line-height: 1.45;
+  text-transform: uppercase;
+}
+
+body.projects-page .project-card p {
+  line-height: 1.65;
+  margin-bottom: 0.75rem;
+}
+
+body.projects-page .project-card .project-links {
+  margin-top: auto;
+  padding-top: 0.55rem;
+}
+
+body.projects-page .project-links p {
+  margin-bottom: 0.2rem;
+  font-size: 0.94rem;
+  line-height: 1.7;
+}
+
+body.projects-page .project-list {
+  margin-bottom: 1.4rem;
+}
+
+body.projects-page .project-list-entry {
+  padding: 1rem 0 1.05rem;
+  border-bottom: 1px solid var(--bs-border-color-translucent, rgba(128, 128, 128, 0.2));
+}
+
+body.projects-page .project-list-entry .project-meta {
+  margin-bottom: 0.4rem;
+}
+
+body.projects-page .project-list-entry h3 {
+  font-size: 1.12rem;
+  margin-bottom: 0.35rem;
+}
+
+body.projects-page .project-list-entry p {
+  max-width: 900px;
+  line-height: 1.65;
+  margin-bottom: 0.35rem;
+}
+
+body.projects-page .project-list-entry .project-links {
+  margin-top: 0.35rem;
+}
+
+@media (max-width: 767.98px) {
+  body.projects-page #quarto-document-content {
+    padding-inline: 1rem;
+  }
+
+  body.projects-page .project-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.85rem;
+  }
+
+  body.projects-page .project-card {
+    padding: 1.05rem 1.05rem 0.95rem;
+  }
+
+  body.projects-page #quarto-document-content h2 {
+    margin-top: 2rem;
+  }
+}

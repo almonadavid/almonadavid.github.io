@@ -1,37 +1,79 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "David Almona",
+    "section": "",
+    "text": "I’m Almona, born and raised in Lagos, Nigeria. I enjoy working on data science and analytical problems, with a particular interest in sports analytics. Track and field and soccer are the sports I know best, and I’m continuing to build my experience in basketball and football analytics. I’m also a lifelong Tottenham Hotspur fan. #COYS.\nI’m focused on improving my Python, modeling, and machine learning skills, and keeping up with how the field is evolving."
+  },
+  {
+    "objectID": "about.html#biography",
+    "href": "about.html#biography",
+    "title": "David Almona",
+    "section": "",
+    "text": "I’m Almona, born and raised in Lagos, Nigeria. I enjoy working on data science and analytical problems, with a particular interest in sports analytics. Track and field and soccer are the sports I know best, and I’m continuing to build my experience in basketball and football analytics. I’m also a lifelong Tottenham Hotspur fan. #COYS.\nI’m focused on improving my Python, modeling, and machine learning skills, and keeping up with how the field is evolving."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "David Almona",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\nCentre College, Danville, KY\nB.S. in Economics & Finance, Data Science minor\nSep 2022 - May 2026\n\n\n\n\n\n\n\nCollege for Social Innovation, Boston, MA\nSemester in the City (SITC) Fellow\nAug 2025 - Dec 2025\nAdvisor: Emily Lagas\n\n\n\n\n\n\n\nAfrican Leadership Academy, Johannesburg, South Africa\nCambridge A Levels: Physics and Mathematics\n2020 - 2022"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "David Almona",
+    "section": "Experience",
+    "text": "Experience\n\n\n\n\n\nBasketball Analytics Intern\nLos Angeles Sparks\nFeb 2026 - Sep 2026\n\n\n\n\n\n\n\nBusiness Program Development Fellow\nSustainable Business Network of Massachusetts\nSep 2025 - Dec 2025\nSupervisor: Kerry Kokkinogenis\n\n\n\n\n\n\n\nUndergraduate Research Fellow\nCarnegie Mellon University\nJun 2025 - Jul 2025\nAdvisors: Quang Nguyen and Daniel Wicker (Charlotte FC)\n\n\n\n\n\n\n\nData Analyst: Qualitative & Quantitative Insights\nBeats by Dre, via Extern\nMar 2025 - Jun 2025\n\n\n\n\n\n\n\nSports Analytics Undergraduate Researcher\nCentre College\nSep 2024 - Nov 2024\nAdvisor: Jeffrey Heath"
+  },
+  {
+    "objectID": "about.html#conferences-attended",
+    "href": "about.html#conferences-attended",
+    "title": "David Almona",
+    "section": "Conferences Attended",
+    "text": "Conferences Attended\n\nApr 2026\n\nASA Virtual Sports Analytics ConferenceVirtual\n\n\n\nJan 2026\n\nAmerican Soccer Insights SummitHouston, TX · Oral presentation\n\n\n\nOct 2025\n\nCarnegie Mellon Sports Analytics ConferencePittsburgh, PA · Oral presentation\n\n\n\nMar 2025\n\nSABR Analytics ConferencePhoenix, AZ · Virtual attendance\n\n\n\nNov 2024\n\nCarnegie Mellon Sports Analytics ConferencePittsburgh, PA · Poster presentation"
+  },
+  {
+    "objectID": "about.html#mentorship-professional-development",
+    "href": "about.html#mentorship-professional-development",
+    "title": "David Almona",
+    "section": "Mentorship & Professional Development",
+    "text": "Mentorship & Professional Development\n\nMentee\n\nWeStutter@Work Mentorship Program\n\n\n\nMentee\n\n2026 NFL Big Data Bowl Mentorship ProgramWorked with NFL analytics mentors to analyze player tracking data for the 2026 Big Data Bowl competition.\n\n\n\nSelectedParticipant\n\n2026 Philadelphia Eagles Virtual Development Series (Business Operations)A 5-week informational series learning more about the Philadelphia Eagles organization, potential career opportunities, and the career paths of front office executives in addition to networking and interviewing tips."
+  },
+  {
+    "objectID": "about.html#awards",
+    "href": "about.html#awards",
+    "title": "David Almona",
+    "section": "Awards",
+    "text": "Awards\n\nFeb 2026\n\nCSDS Conference Travel AwardIssued by Texas A&M University & Collaborative for Sport Data Science (CSDS)"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "2026\n2026 FIFA World Cup Prediction (Jun 2026)  Personal Project  Using a Poisson regression model and Monte Carlo simulations to project tournament outcomes.  Finished 4th of 47 entries in a public prediction contest on X (fka. Twitter), ranking 2nd by Brier score  Writeup | GitHub\nHouston Dynamo Forward Recruitment Analysis (Mar 2026)  Take-Home Task  Analyzed 2024 MLS season data from SkillCorner and Wyscout to identify and recommend a forward signing based on physical, athletic, and production metrics  Slides | GitHub\n\n\n2025\nChasing Imperfect Passes: Into the Life of a Receiver (Dec 2025)  2026 NFL Big Data Bowl Submission  Evaluating how a QB’s throw makes life easier or harder for the receiver, by quantifying receiver adjustments while the ball is in the air.  Partner: Sammy Davis  Writeup | GitHub\nForced Turnover: Evaluating Pressing Effectiveness in Soccer (Jul 2025)  Carnegie Mellon Sports Analytics Camp  A machine learning approach to analyze pressing in soccer with player tracking data from MLS matches in 2023 season.  Partner: Natalie Rayce (Carnegie Mellon University), Daniel Wicker (Charlotte FC)  Report | Poster | Slides | GitHub | Presentation (CMSAC) | Presentation (ASI Summit 2026)\nData Analytics Externship | Consumer Insights & Strategic Decision-Making (Jun 2025)  Beats by Dre, via Extern  An analysis on Beats’ in the wireless speaker market, analyzing 4,628 consumer survey responses for business recommendations.  Slides | Dashboard\nNBA Honors Selections 2024-25 Season (May 2025)  Predicting NBA honors (All-NBA, All-Defensive, All-Rookie) using regular-season box score statistics.  Partner: Vedant Bhong  Slides | GitHub | College News\nPredicting MLB Player Usage (Feb 2025)  Cincinnati Reds Baseball Analytics Student Hackathon Submission  Challenge: Predict the total playing time (PA/BF) players will receive in 2024.  Kaggle Notebook | GitHub\n\n\n2024\nNational Olympic Performance: Determinants of Medal Counts (Dec 2024)  Econometrics Final Paper  Paper | GitHub\nMinesweeper (Dec 2024)  My attempt at recreating the classic Minesweeper game using Python.  GitHub\nCentre College Women’s Soccer Analytics Dashboard (Nov 2024)  Analyzed shot data for a Division III women’s soccer team using RShiny to build an interactive dashboard.  Presented during poster session at the Carnegie Mellon Sports Analytics Conference 2024  GitHub"
+    "text": "A selection of my work in sports analytics, machine learning, and applied data analysis."
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n\n\nJun 2026 | Personal Project\n\n\n2026 FIFA World Cup Prediction\nUsing a Poisson regression model and Monte Carlo simulations to project tournament outcomes.\nResult: Finished 4th of 47 entries in a public prediction contest on X, ranking 2nd by Brier score.\n\nWrite-up | GitHub\n\n\n\n\n\nMar 2026 | Take-Home Task\n\n\nHouston Dynamo Forward Recruitment Analysis\nAnalyzed 2024 MLS season data from SkillCorner and Wyscout to identify and recommend a forward signing based on physical, athletic, and production metrics.\n\nSlides | GitHub\n\n\n\n\n\nDec 2025 | 2026 NFL Big Data Bowl Submission\n\n\nChasing Imperfect Passes: Into the Life of a Receiver\nEvaluating how a quarterback’s throw makes life easier or harder for the receiver by quantifying receiver adjustments while the ball is in the air.\nPartner: Sammy Davis\n\nWrite-up | GitHub\n\n\n\n\n\nJul 2025 | Carnegie Mellon Sports Analytics Camp\n\n\nForced Turnover: Evaluating Pressing Effectiveness in Soccer\nA machine learning approach to analyze pressing in soccer with player-tracking data from MLS matches in the 2023 season.\nPartners: Natalie Rayce (Carnegie Mellon University) and Daniel Wicker (Charlotte FC)\n\nReport | Poster | Slides | GitHub\nPresentation (CMSAC) | Presentation (ASI Summit 2026)"
+  },
+  {
+    "objectID": "projects.html#more-projects",
+    "href": "projects.html#more-projects",
+    "title": "Projects",
+    "section": "More Projects",
+    "text": "More Projects\n\n2025\n\n\n\nJun 2025 | Beats by Dre, via Extern\n\n\nData Analytics Externship | Consumer Insights & Strategic Decision-Making\nAn analysis of Beats’ position in the wireless speaker market, using 4,628 consumer survey responses to develop business recommendations.\n\nSlides | Dashboard\n\n\n\n\n\nMay 2025 | Partner: Vedant Bhong\n\n\nNBA Honors Selections 2024–25 Season\nPredicting NBA honors (All-NBA, All-Defensive, All-Rookie) using regular-season box score statistics.\n\nSlides | GitHub | College News\n\n\n\n\n\nFeb 2025 | Cincinnati Reds Baseball Analytics Student Hackathon\n\n\nPredicting MLB Player Usage\nChallenge: Predict the total playing time (PA/BF) players will receive in 2024.\n\nKaggle Notebook | GitHub\n\n\n\n\n\n\n2024\n\n\n\nDec 2024 | Econometrics Final Paper\n\n\nNational Olympic Performance: Determinants of Medal Counts\n\nPaper | GitHub\n\n\n\n\n\nDec 2024 | Personal Project\n\n\nMinesweeper\nMy attempt at recreating the classic Minesweeper game using Python.\n\nGitHub\n\n\n\n\n\nNov 2024\n\n\nCentre College Women’s Soccer Analytics Dashboard\nAnalyzed shot data for a Division III women’s soccer team using RShiny to build an interactive dashboard. Presented during the poster session at the Carnegie Mellon Sports Analytics Conference 2024.\n\nGitHub"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "David Almona",
     "section": "",
-    "text": "Welcome! I’m Almona, born and raised in Lagos, Nigeria. I’m a recent graduate of Centre College, where I studied Economics with a minor in Data Science.\nI enjoy working on data science and analytical problems, with a particular interest in sports analytics. Track and field and soccer are the sports I know best, and I’m still getting comfortable with basketball and football on the analytics side. Also a lifelong Tottenham Hotspur fan. #COYS.\nRight now I’m focused on improving my Python, modeling, and machine learning skills, and keeping up with how the field is evolving.\nFeel free to look at my CV and the projects I’ve worked on.\n\n\nCentre College, Danville, KY  BS in Economics & Finance, Data Science minor | Expected May 2026\nCollege for Social Innovation, Boston, MA  Semester in the City (SITC) Fellow | Aug 2025 - Dec 2025  Advisor: Emily Lagas\nAfrican Leadership Academy, Johannesburg, South Africa  Cambridge A Levels: Physics and Mathematics | 2020 - 2022\n\n\n\nBasketball Analytics Intern | Los Angeles Sparks  Feb 2026 - Present\nBusiness Program Development Fellow | Sustainable Business Network of Massachusetts  Sep 2025 - Dec 2025  Supervisor: Kerry Kokkinogenis\nUndergraduate Research Fellow | Carnegie Mellon University  Jun 2025 - Jul 2025  Advisors: Quang Nguyen, Daniel Wicker (Charlotte FC)\nData Analyst: Qualitative & Quantitative Insights | Beats by Dre, via Extern  Mar 2025 - June 2025\nSports Analytics Undergraduate Researcher | Centre College  Sep 2024 - Nov 2024  Advisor: Jeffrey Heath\n\n\n\nASA Virtual Sports Analytics Conference | Virtual  Apr 2026\nAmerican Soccer Insights Summit | Houston, TX  Jan 2026 | Oral presentation\nCarnegie Mellon Sports Analytics Conference | Pittsburgh, PA  Oct 2025 | Oral presentation\nSABR Analytics Conference | Phoenix, AZ  Mar 2025 | Virtual attendance\nCarnegie Mellon Sports Analytics Conference | Pittsburgh, PA  Nov 2024 | Poster presentation"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "David Almona",
-    "section": "",
-    "text": "Centre College, Danville, KY  BS in Economics & Finance, Data Science minor | Expected May 2026\nCollege for Social Innovation, Boston, MA  Semester in the City (SITC) Fellow | Aug 2025 - Dec 2025  Advisor: Emily Lagas\nAfrican Leadership Academy, Johannesburg, South Africa  Cambridge A Levels: Physics and Mathematics | 2020 - 2022"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "David Almona",
-    "section": "",
-    "text": "Basketball Analytics Intern | Los Angeles Sparks  Feb 2026 - Present\nBusiness Program Development Fellow | Sustainable Business Network of Massachusetts  Sep 2025 - Dec 2025  Supervisor: Kerry Kokkinogenis\nUndergraduate Research Fellow | Carnegie Mellon University  Jun 2025 - Jul 2025  Advisors: Quang Nguyen, Daniel Wicker (Charlotte FC)\nData Analyst: Qualitative & Quantitative Insights | Beats by Dre, via Extern  Mar 2025 - June 2025\nSports Analytics Undergraduate Researcher | Centre College  Sep 2024 - Nov 2024  Advisor: Jeffrey Heath"
-  },
-  {
-    "objectID": "index.html#conferences-attended",
-    "href": "index.html#conferences-attended",
-    "title": "David Almona",
-    "section": "",
-    "text": "ASA Virtual Sports Analytics Conference | Virtual  Apr 2026\nAmerican Soccer Insights Summit | Houston, TX  Jan 2026 | Oral presentation\nCarnegie Mellon Sports Analytics Conference | Pittsburgh, PA  Oct 2025 | Oral presentation\nSABR Analytics Conference | Phoenix, AZ  Mar 2025 | Virtual attendance\nCarnegie Mellon Sports Analytics Conference | Pittsburgh, PA  Nov 2024 | Poster presentation"
+    "text": "David Almona\n\nLinkedIn Email GitHub X (fka. Twitter) Bluesky\n\nWelcome! I graduated from Centre College, where I studied Economics and Finance and minored in Data Science.\nI enjoy working on data science and analytical problems, particularly in sports analytics. I use R, Python, SQL, and business intelligence tools across personal projects, and have experience in research, internships, and conference presentations."
   }
 ]
