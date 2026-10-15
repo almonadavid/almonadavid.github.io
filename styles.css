@@ -213,11 +213,11 @@ body.about-page .about-logo img {
 body.about-page .logo-centre { --logo-scale: 1.12; }
 body.about-page .logo-cfsi { --logo-scale: 1.12; }
 body.about-page .logo-ala { --logo-scale: 1.08; }
-body.about-page .logo-sparks { --logo-scale: 1.08; }
-body.about-page .logo-sbn { --logo-scale: 1.12; }
-body.about-page .logo-cmu { --logo-scale: 1.03; }
-body.about-page .logo-extern { --logo-scale: 1.08; }
-body.about-page .logo-centre-athletics { --logo-scale: 1.10; }
+body.about-page .logo-sparks { --logo-scale: 1.02; }
+body.about-page .logo-sbn { --logo-scale: 1.06; }
+body.about-page .logo-cmu { --logo-scale: 0.90; }
+body.about-page .logo-extern { --logo-scale: 1.00; }
+body.about-page .logo-centre-athletics { --logo-scale: 1.04; }
 
 body.about-page .about-entry-details {
   min-width: 0;
