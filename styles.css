@@ -1,1 +1,26 @@
 /* css styles */
+
+/* Keep section jumps visible beneath the fixed/sticky navigation bar. */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+}
+
+#top,
+#about,
+#education,
+#experience,
+#conferences,
+#projects {
+  scroll-margin-top: 5rem;
+}
+
+/* Give the continuous portfolio page a little breathing room. */
+.about-content h2 {
+  margin-top: 2.25rem;
+  padding-top: 0.25rem;
+}
+
+.about-content h3 {
+  margin-top: 1.5rem;
+}
