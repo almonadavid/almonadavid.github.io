@@ -28,7 +28,11 @@ about:
       target: blank
 ---
 
+<div id="top"></div>
+
 ::: {.about-content}
+
+## About {#about}
 
 Welcome! I'm Almona, born and raised in Lagos, Nigeria. I'm a recent graduate of Centre College, where I studied Economics with a minor in Data Science.
 
@@ -38,7 +42,7 @@ Right now I'm focused on improving my Python, modeling, and machine learning ski
 
 Feel free to look at my CV and the projects I've worked on.
 
-## Education
+## Education {#education}
 
 **Centre College**, Danville, KY  <br>
 BS in Economics & Finance, Data Science minor | *Expected May 2026*
@@ -50,7 +54,7 @@ Advisor: [Emily Lagas](https://www.linkedin.com/in/emily-lagas-lcsw/)
 **African Leadership Academy**, Johannesburg, South Africa  <br>
 Cambridge A Levels: Physics and Mathematics | *2020 - 2022*
 
-## Experience
+## Experience {#experience}
 
 **Basketball Analytics Intern** | Los Angeles Sparks  <br>
 *Feb 2026 - Present*
@@ -70,7 +74,7 @@ Advisors: [Quang Nguyen](https://www.linkedin.com/in/qntkhvn/), [Daniel Wicker](
 *Sep 2024 - Nov 2024* <br>
 Advisor: [Jeffrey Heath](https://www.linkedin.com/in/jeffrey-heath-3294598/)
 
-## Conferences Attended
+## Conferences Attended {#conferences}
 
 **ASA Virtual Sports Analytics Conference** | Virtual <br>
 *Apr 2026*
@@ -86,5 +90,64 @@ Advisor: [Jeffrey Heath](https://www.linkedin.com/in/jeffrey-heath-3294598/)
 
 **Carnegie Mellon Sports Analytics Conference** | Pittsburgh, PA  <br>
 *Nov 2024* | Poster presentation
+
+## Projects {#projects}
+
+### 2026
+**2026 FIFA World Cup Prediction** (Jun 2026) <br>
+*Personal Project* <br>
+Using a Poisson regression model and Monte Carlo simulations to project tournament outcomes. <br>
+Finished 4th of 47 entries in a [public prediction contest](https://x.com/Futbolmetrix1/status/2079619706680410181) on X (fka. Twitter), ranking 2nd by Brier score <br>
+[Writeup](/projects/fifa_wc_2026/wc2026.html) | [GitHub](https://github.com/almonadavid/fifa-world-cup-2026)
+
+**Houston Dynamo Forward Recruitment Analysis** (Mar 2026) <br>
+*Take-Home Task* <br>
+Analyzed 2024 MLS season data from SkillCorner and Wyscout to identify and recommend a forward signing based on physical, athletic, and production metrics <br>
+[Slides](https://docs.google.com/presentation/d/111BVuDDL3brOw3tR36Qm25hJabygVsOPsILPzRKu7hw/edit?usp=sharing) | [GitHub](https://github.com/almonadavid/dynamo-data-analyst-task)
+
+### 2025
+
+**Chasing Imperfect Passes: Into the Life of a Receiver** (Dec 2025) <br>
+*2026 NFL Big Data Bowl Submission* <br>
+Evaluating how a QB's throw makes life easier or harder for the receiver, by quantifying receiver adjustments while the ball is in the air. <br>
+Partner: Sammy Davis <br>
+[Writeup](https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-analytics/writeups/chasing-imperfect-passes) | [GitHub](https://github.com/almonadavid/BigDataBowl2026)
+
+**Forced Turnover: Evaluating Pressing Effectiveness in Soccer** (Jul 2025) <br>
+*Carnegie Mellon Sports Analytics Camp* <br>
+A machine learning approach to analyze pressing in soccer with player tracking data from MLS matches in 2023 season. <br>
+Partner: Natalie Rayce (Carnegie Mellon University), Daniel Wicker (Charlotte FC) <br>
+[Report](/projects/CMSACamp/Capstone_Report.html) | [Poster](/projects/CMSACamp/CMSACamp_Poster.pdf) | [Slides](/projects/CMSACamp/Final_Presentation.html) | [GitHub](https://github.com/almonadavid/CMU-Soccer-SkillCorner) |
+[Presentation (CMSAC)](https://youtu.be/a8LIkMYDf8Y) | [Presentation (ASI Summit 2026)](https://youtu.be/BM25U4DI7XA)
+
+**Data Analytics Externship | Consumer Insights & Strategic Decision-Making** (Jun 2025) <br>
+*Beats by Dre, via Extern* <br>
+An analysis on Beats' in the wireless speaker market, analyzing 4,628 consumer survey responses for business recommendations. <br>
+[Slides](/projects/Externship/Beats-Wireless-Speaker-Strategic-Assessment.pdf) | [Dashboard](https://claude.ai/public/artifacts/2f0ea25a-b784-4668-886c-b26ff4c6f1ce)
+
+**NBA Honors Selections 2024-25 Season** (May 2025) <br>
+Predicting NBA honors (All-NBA, All-Defensive, All-Rookie) using regular-season box score statistics. <br>
+Partner: Vedant Bhong <br>
+[Slides](/projects/dsc230_project/NBA_Honors_Selections.pdf) | [GitHub](https://github.com/almonadavid/NBA-Honors-Selections-2024-25-season) | [College News](https://www.centre.edu/news/students-predict-nba-honors-winners-teams)
+
+**Predicting MLB Player Usage** (Feb 2025) <br>
+*Cincinnati Reds Baseball Analytics Student Hackathon Submission* <br>
+Challenge: Predict the total playing time (PA/BF) players will receive in 2024. <br>
+[Kaggle Notebook](https://www.kaggle.com/code/almona/david-almona-cincinnati-reds-hackathon) | [GitHub](https://github.com/almonadavid/Cincinnati-Reds-Hackathon-2025)
+
+### 2024
+
+**National Olympic Performance: Determinants of Medal Counts** (Dec 2024) <br>
+*Econometrics Final Paper* <br>
+[Paper](/projects/Econometrics/AlmonaDPaper.pdf) | [GitHub](https://github.com/almonadavid/econometrics)
+
+**Minesweeper** (Dec 2024) <br>
+My attempt at recreating the classic Minesweeper game using Python. <br>
+[GitHub](https://github.com/almonadavid/Minesweeper)
+
+**Centre College Women’s Soccer Analytics Dashboard** (Nov 2024) <br>
+Analyzed shot data for a Division III women’s soccer team using RShiny to build an interactive dashboard. <br>
+*Presented during poster session at the Carnegie Mellon Sports Analytics Conference 2024* <br>
+[GitHub](https://github.com/almonadavid/centre-college-womens-soccer)
 
 :::
