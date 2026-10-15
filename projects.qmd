@@ -3,7 +3,7 @@ title: "Projects"
 body-classes: projects-page
 ---
 
-A selection of my work in sports analytics, machine learning, forecasting, and applied data analysis.
+A selection of my work in sports analytics, machine learning, and applied data analysis.
 
 ## Featured Projects
 

@@ -13,7 +13,7 @@ website:
         text: About
       - href: projects.qmd
         text: Projects
-      - href: cv.pdf
+      - href: resume.pdf
         text: Resume
         target: blank
     right:
