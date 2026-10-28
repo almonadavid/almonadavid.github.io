@@ -2,6 +2,33 @@
 title: "David Almona"
 page-layout: full
 body-classes: home-page
+about:
+  id: home-social-links
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/davidalmona/
+      target: _blank
+      rel: noopener noreferrer
+    - icon: envelope-at
+      text: Email
+      href: "mailto:almonadavid@gmail.com"
+    - icon: github
+      text: GitHub
+      href: https://github.com/almonadavid
+      target: _blank
+      rel: noopener noreferrer
+    - icon: twitter-x
+      text: X (fka. Twitter)
+      href: https://x.com/almondanalysis
+      target: _blank
+      rel: noopener noreferrer
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/almondanalysis.bsky.social
+      target: _blank
+      rel: noopener noreferrer
 ---
 
 :::: {.home-hero}
@@ -14,17 +41,12 @@ body-classes: home-page
 
 # David Almona
 
-<div class="home-socials" aria-label="Social links">
-  <a class="home-social-link" href="https://www.linkedin.com/in/davidalmona/" target="_blank" rel="noopener noreferrer"><i class="bi bi-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>
-  <a class="home-social-link" href="mailto:almonadavid@gmail.com"><i class="bi bi-envelope-at" aria-hidden="true"></i><span>Email</span></a>
-  <a class="home-social-link" href="https://github.com/almonadavid" target="_blank" rel="noopener noreferrer"><i class="bi bi-github" aria-hidden="true"></i><span>GitHub</span></a>
-  <a class="home-social-link" href="https://x.com/almondanalysis" target="_blank" rel="noopener noreferrer"><i class="bi bi-twitter-x" aria-hidden="true"></i><span>X (fka. Twitter)</span></a>
-  <a class="home-social-link" href="https://bsky.app/profile/almondanalysis.bsky.social" target="_blank" rel="noopener noreferrer"><i class="bi bi-bluesky" aria-hidden="true"></i><span>Bluesky</span></a>
-</div>
-
 Welcome! I'm an analytics professional with experience in statistical modeling, and sports analytics, focused on analyzing complex datasets, communicating insights to stakeholders, and building solutions that contribute to organizational impact.
 
 I also enjoy working on sports analytics projects and have used R, Python, SQL, and BI tools on my personal projects. Also, I have a number of research, internships, and conference presentation experiences.
+
+
+<div id="home-social-links"></div>
 
 :::
 
