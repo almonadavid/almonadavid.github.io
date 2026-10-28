@@ -22,9 +22,9 @@ body-classes: home-page
   <a class="home-social-link" href="https://bsky.app/profile/almondanalysis.bsky.social" target="_blank" rel="noopener noreferrer"><i class="bi bi-bluesky" aria-hidden="true"></i><span>Bluesky</span></a>
 </div>
 
-Welcome! I graduated from Centre College, where I studied Economics and Finance and minored in Data Science.
+Welcome! I'm an analytics professional with experience in statistical modeling, and sports analytics, focused on analyzing complex datasets, communicating insights to stakeholders, and building solutions that contribute to organizational impact.
 
-I enjoy working on data science and analytical problems, particularly in sports analytics. I use R, Python, SQL, and business intelligence tools across personal projects, and have experience in research, internships, and conference presentations.
+I also enjoy working on sports analytics projects and have used R, Python, SQL, and BI tools on my personal projects. Also, I have a number of research, internships, and conference presentation experiences.
 
 :::
 
