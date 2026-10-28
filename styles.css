@@ -120,13 +120,6 @@ body.home-page .quarto-about-jolla .about-links {
   }
 }
 
-@media (prefers-reduced-motion: reduce) {
-  body.home-page .home-social-link {
-    transition: none;
-  }
-}
-
-
 /* About page: restrained logo-and-text rows for education and experience. */
 body.about-page .quarto-title-block {
   display: none;
