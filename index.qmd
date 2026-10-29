@@ -9,45 +9,44 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/davidalmona/
-      target: _blank
-      rel: noopener noreferrer
+      aria-label: LinkedIn
     - icon: envelope-at
       text: Email
       href: "mailto:almonadavid@gmail.com"
+      aria-label: Email
     - icon: github
       text: GitHub
       href: https://github.com/almonadavid
-      target: _blank
-      rel: noopener noreferrer
+      aria-label: GitHub
     - icon: twitter-x
       text: X (fka. Twitter)
       href: https://x.com/almondanalysis
-      target: _blank
-      rel: noopener noreferrer
+      aria-label: X (Twitter)
     - icon: bluesky
       text: Bluesky
       href: https://bsky.app/profile/almondanalysis.bsky.social
-      target: _blank
-      rel: noopener noreferrer
+      aria-label: Bluesky
 ---
 
-:::: {.home-hero}
+::::: {.home-hero}
 
-::: {.home-portrait}
+:::: {.home-portrait}
 <img src="assets/headshot.jpg" alt="David Almona speaking at a conference" />
-:::
+::::
 
-::: {.home-copy}
+:::: {.home-copy}
 
 # David Almona
 
 Welcome! I'm an analytics professional with experience in statistical modeling, and sports analytics, focused on analyzing complex datasets, communicating insights to stakeholders, and building solutions that contribute to organizational impact.
 
-I also enjoy working on sports analytics projects and have used R, Python, SQL, and BI tools on my personal projects. Also, I have a number of research, internships, and conference presentation experiences.
+I also enjoy working on sports analytics projects and have used R, Python, SQL, and BI tools on my projects. Also, I have a number of research, internships, and conference presentation experiences.
 
+<hr class="home-links-divider" />
 
-<div id="home-social-links"></div>
-
+::: {#home-social-links}
 :::
 
 ::::
+
+:::::

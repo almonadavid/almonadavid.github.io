@@ -74,6 +74,16 @@ body.home-page .home-copy > p:last-of-type {
   margin-bottom: 0.5rem;
 }
 
+
+/* Divider between the homepage intro and social links */
+body.home-page .home-links-divider {
+  width: 100%;
+  margin: 1.25rem 0 1rem;
+  border: 0;
+  border-top: 1px solid var(--bs-border-color, #808080);
+  opacity: 0.7;
+}
+
 /* Quarto renders the links declared in index.qmd's about: links metadata.
    Keep its responsive link group under the intro without a second profile layout. */
 body.home-page .quarto-about-jolla {
