@@ -1,17 +1,45 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "David Almona",
+    "section": "",
+    "text": "David Almona\nWelcome! I’m an analytics professional with experience in statistical modeling, and sports analytics, focused on analyzing complex datasets, communicating insights to stakeholders, and building solutions that contribute to organizational impact.\nI also enjoy working on sports analytics projects and have used R, Python, SQL, and BI tools on my projects. Also, I have a number of research, internships, and conference presentation experiences.\n\n\n \n \n  \n   \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     X (fka. Twitter)\n  \n  \n    \n     Bluesky"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of my work in sports analytics, machine learning, and applied data analysis."
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n\n\nJun 2026 | Personal Project\n\n\n2026 FIFA World Cup Prediction\nUsing a Poisson regression model and Monte Carlo simulations to project tournament outcomes.\nResult: Finished 4th of 47 entries in a public prediction contest on X, ranking 2nd by Brier score.\n\nWrite-up | GitHub\n\n\n\n\n\nMar 2026 | Take-Home Task\n\n\nHouston Dynamo Forward Recruitment Analysis\nAnalyzed 2024 MLS season data from SkillCorner and Wyscout to identify and recommend a forward signing based on physical, athletic, and production metrics.\n\nSlides | GitHub\n\n\n\n\n\nDec 2025 | 2026 NFL Big Data Bowl Submission\n\n\nChasing Imperfect Passes: Into the Life of a Receiver\nEvaluating how a quarterback’s throw makes life easier or harder for the receiver by quantifying receiver adjustments while the ball is in the air.\nPartner: Sammy Davis\n\nWrite-up | GitHub\n\n\n\n\n\nJul 2025 | Carnegie Mellon Sports Analytics Camp\n\n\nForced Turnover: Evaluating Pressing Effectiveness in Soccer\nA machine learning approach to analyze pressing in soccer with player-tracking data from MLS matches in the 2023 season.\nPartners: Natalie Rayce (Carnegie Mellon University) and Daniel Wicker (Charlotte FC)\n\nReport | Poster | Slides | GitHub\nPresentation (CMSAC) | Presentation (ASI Summit 2026)"
+  },
+  {
+    "objectID": "projects.html#more-projects",
+    "href": "projects.html#more-projects",
+    "title": "Projects",
+    "section": "More Projects",
+    "text": "More Projects\n\n2026\n\n\n\nJul 2026 | Personal Project\n\n\nGoalkeeper Metric: Clean Sheets Earned (CSE)\nA metric to estimate a goalkeeper’s share of credit for a clean sheet, accounting for shot difficulty and actions that prevent scoring opportunities before a shot is taken.\n\nAmerican Soccer Analysis\n\n\n\n\n\n\n2025\n\n\n\nJun 2025 | Beats by Dre, via Extern\n\n\nData Analytics Externship | Consumer Insights & Strategic Decision-Making\nAn analysis of Beats’ position in the wireless speaker market, using 4,628 consumer survey responses to develop business recommendations.\n\nSlides | Dashboard\n\n\n\n\n\nMay 2025 | Partner: Vedant Bhong\n\n\nNBA Honors Selections 2024–25 Season\nPredicting NBA honors (All-NBA, All-Defensive, All-Rookie) using regular-season box score statistics.\n\nSlides | GitHub | College News\n\n\n\n\n\nFeb 2025 | Cincinnati Reds Baseball Analytics Student Hackathon\n\n\nPredicting MLB Player Usage\nChallenge: Predict the total playing time (PA/BF) players will receive in 2024.\n\nKaggle Notebook | GitHub\n\n\n\n\n\n\n2024\n\n\n\nDec 2024 | Econometrics Final Paper\n\n\nNational Olympic Performance: Determinants of Medal Counts\n\nPaper | GitHub\n\n\n\n\n\nDec 2024 | Personal Project\n\n\nMinesweeper\nMy attempt at recreating the classic Minesweeper game using Python.\n\nGitHub\n\n\n\n\n\nNov 2024\n\n\nCentre College Women’s Soccer Analytics Dashboard\nAnalyzed shot data for a Division III women’s soccer team using RShiny to build an interactive dashboard. Presented during the poster session at the Carnegie Mellon Sports Analytics Conference 2024.\n\nGitHub"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "David Almona",
     "section": "",
-    "text": "I’m Almona, born and raised in Lagos, Nigeria. I enjoy working on data science and analytical problems, with a particular interest in sports analytics. Track and field and soccer are the sports I know best, and I’m continuing to build my experience in basketball and football analytics. I’m also a lifelong Tottenham Hotspur fan. #COYS.\nI’m focused on improving my Python, modeling, and machine learning skills, and keeping up with how the field is evolving."
+    "text": "Born and raised in Lagos, Nigeria, I completed my B.S. in Economics with a minor in Data Science from Centre College in May 2026. I also competed in the 100m and 200m as a collegiate track and field athlete.\nI enjoy working on data science and analytical problems in sports and continue to develop my skills in Python, statistical modeling, and machine learning while keeping up with developments in the field.\nIn my free time, I enjoy watching and playing sports, going to the gym, and listening to contemporary gospel worship and AfroGospel, among others."
   },
   {
     "objectID": "about.html#biography",
     "href": "about.html#biography",
     "title": "David Almona",
     "section": "",
-    "text": "I’m Almona, born and raised in Lagos, Nigeria. I enjoy working on data science and analytical problems, with a particular interest in sports analytics. Track and field and soccer are the sports I know best, and I’m continuing to build my experience in basketball and football analytics. I’m also a lifelong Tottenham Hotspur fan. #COYS.\nI’m focused on improving my Python, modeling, and machine learning skills, and keeping up with how the field is evolving."
+    "text": "Born and raised in Lagos, Nigeria, I completed my B.S. in Economics with a minor in Data Science from Centre College in May 2026. I also competed in the 100m and 200m as a collegiate track and field athlete.\nI enjoy working on data science and analytical problems in sports and continue to develop my skills in Python, statistical modeling, and machine learning while keeping up with developments in the field.\nIn my free time, I enjoy watching and playing sports, going to the gym, and listening to contemporary gospel worship and AfroGospel, among others."
   },
   {
     "objectID": "about.html#education",
@@ -46,34 +74,6 @@
     "href": "about.html#awards",
     "title": "David Almona",
     "section": "Awards",
-    "text": "Awards\n\nFeb 2026\n\nCSDS Conference Travel AwardIssued by Texas A&M University & Collaborative for Sport Data Science (CSDS)"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "A selection of my work in sports analytics, machine learning, and applied data analysis."
-  },
-  {
-    "objectID": "projects.html#featured-projects",
-    "href": "projects.html#featured-projects",
-    "title": "Projects",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\n\n\nJun 2026 | Personal Project\n\n\n2026 FIFA World Cup Prediction\nUsing a Poisson regression model and Monte Carlo simulations to project tournament outcomes.\nResult: Finished 4th of 47 entries in a public prediction contest on X, ranking 2nd by Brier score.\n\nWrite-up | GitHub\n\n\n\n\n\nMar 2026 | Take-Home Task\n\n\nHouston Dynamo Forward Recruitment Analysis\nAnalyzed 2024 MLS season data from SkillCorner and Wyscout to identify and recommend a forward signing based on physical, athletic, and production metrics.\n\nSlides | GitHub\n\n\n\n\n\nDec 2025 | 2026 NFL Big Data Bowl Submission\n\n\nChasing Imperfect Passes: Into the Life of a Receiver\nEvaluating how a quarterback’s throw makes life easier or harder for the receiver by quantifying receiver adjustments while the ball is in the air.\nPartner: Sammy Davis\n\nWrite-up | GitHub\n\n\n\n\n\nJul 2025 | Carnegie Mellon Sports Analytics Camp\n\n\nForced Turnover: Evaluating Pressing Effectiveness in Soccer\nA machine learning approach to analyze pressing in soccer with player-tracking data from MLS matches in the 2023 season.\nPartners: Natalie Rayce (Carnegie Mellon University) and Daniel Wicker (Charlotte FC)\n\nReport | Poster | Slides | GitHub\nPresentation (CMSAC) | Presentation (ASI Summit 2026)"
-  },
-  {
-    "objectID": "projects.html#more-projects",
-    "href": "projects.html#more-projects",
-    "title": "Projects",
-    "section": "More Projects",
-    "text": "More Projects\n\n2025\n\n\n\nJun 2025 | Beats by Dre, via Extern\n\n\nData Analytics Externship | Consumer Insights & Strategic Decision-Making\nAn analysis of Beats’ position in the wireless speaker market, using 4,628 consumer survey responses to develop business recommendations.\n\nSlides | Dashboard\n\n\n\n\n\nMay 2025 | Partner: Vedant Bhong\n\n\nNBA Honors Selections 2024–25 Season\nPredicting NBA honors (All-NBA, All-Defensive, All-Rookie) using regular-season box score statistics.\n\nSlides | GitHub | College News\n\n\n\n\n\nFeb 2025 | Cincinnati Reds Baseball Analytics Student Hackathon\n\n\nPredicting MLB Player Usage\nChallenge: Predict the total playing time (PA/BF) players will receive in 2024.\n\nKaggle Notebook | GitHub\n\n\n\n\n\n\n2024\n\n\n\nDec 2024 | Econometrics Final Paper\n\n\nNational Olympic Performance: Determinants of Medal Counts\n\nPaper | GitHub\n\n\n\n\n\nDec 2024 | Personal Project\n\n\nMinesweeper\nMy attempt at recreating the classic Minesweeper game using Python.\n\nGitHub\n\n\n\n\n\nNov 2024\n\n\nCentre College Women’s Soccer Analytics Dashboard\nAnalyzed shot data for a Division III women’s soccer team using RShiny to build an interactive dashboard. Presented during the poster session at the Carnegie Mellon Sports Analytics Conference 2024.\n\nGitHub"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "David Almona",
-    "section": "",
-    "text": "David Almona\n\nLinkedIn Email GitHub X (fka. Twitter) Bluesky\n\nWelcome! I graduated from Centre College, where I studied Economics and Finance and minored in Data Science.\nI enjoy working on data science and analytical problems, particularly in sports analytics. I use R, Python, SQL, and business intelligence tools across personal projects, and have experience in research, internships, and conference presentations."
+    "text": "Awards\n\nFeb 2026\n\nCSDS Conference Travel AwardIssued by Texas A&M University & Collaborative for Sport Data Science (CSDS)\n\n\n\nDec 2025\n\nCFSI Values AwardIssued by the College for Social Innovation (CFSI) · For providing immense value to my internship organization, via capacity building and lasting impact\n\n\n\nJun 2024\n\nAcademic All-District Honor RollIssued by the College Sports Communicators (CSC) · For top student-athletes, having a minimum 3.5 GPA and ranked top 50 in region in their individual event(s)"
   }
 ]
