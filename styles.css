@@ -64,48 +64,43 @@ body.home-page .home-copy h1 {
   font-size: clamp(2.2rem, 3.6vw, 3rem);
 }
 
-body.home-page .home-socials {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.5rem;
-  margin-bottom: 1.35rem;
-}
-
-body.home-page .home-social-link {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.4rem;
-  padding: 0.38rem 0.65rem;
-  border: 1px solid var(--bs-border-color);
-  border-radius: 0.35rem;
-  color: var(--bs-body-color);
-  font-size: 0.92rem;
-  line-height: 1.3;
-  text-decoration: none;
-  white-space: nowrap;
-  transition: background-color 0.15s ease, border-color 0.15s ease;
-}
-
-body.home-page .home-social-link i {
-  font-size: 1rem;
-  line-height: 1;
-}
-
-body.home-page .home-social-link:hover {
-  background: var(--bs-tertiary-bg);
-  border-color: var(--bs-secondary-color);
-}
-
 body.home-page .home-copy p {
   max-width: 720px;
   margin: 0 auto 0.9rem;
   line-height: 1.7;
 }
 
-body.home-page .home-copy p:last-child {
-  margin-bottom: 0;
+body.home-page .home-copy > p:last-of-type {
+  margin-bottom: 0.5rem;
+}
+
+
+/* Divider between the homepage intro and social links */
+body.home-page .home-links-divider {
+  width: 100%;
+  margin: 1.25rem 0 1rem;
+  border: 0;
+  border-top: 1px solid var(--bs-border-color, #808080);
+  opacity: 0.7;
+}
+
+/* Quarto renders the links declared in index.qmd's about: links metadata.
+   Keep its responsive link group under the intro without a second profile layout. */
+body.home-page .quarto-about-jolla {
+  width: 100%;
+  margin-top: 0 !important;
+  padding-bottom: 0;
+}
+
+body.home-page .quarto-about-jolla .quarto-title-block,
+body.home-page .quarto-about-jolla #home-social-links,
+body.home-page .quarto-about-jolla .about-sep {
+  display: none;
+}
+
+body.home-page .quarto-about-jolla .about-links {
+  justify-content: center;
+  padding-bottom: 0;
 }
 
 @media (max-width: 767.98px) {
@@ -126,15 +121,6 @@ body.home-page .home-copy p:last-child {
     font-size: 2.2rem;
   }
 
-  body.home-page .home-socials {
-    gap: 0.4rem;
-    margin-bottom: 1.1rem;
-  }
-
-  body.home-page .home-social-link {
-    padding: 0.35rem 0.55rem;
-    font-size: 0.88rem;
-  }
 }
 
 @media (max-height: 700px) {
@@ -142,13 +128,6 @@ body.home-page .home-copy p:last-child {
     justify-content: flex-start;
   }
 }
-
-@media (prefers-reduced-motion: reduce) {
-  body.home-page .home-social-link {
-    transition: none;
-  }
-}
-
 
 /* About page: restrained logo-and-text rows for education and experience. */
 body.about-page .quarto-title-block {

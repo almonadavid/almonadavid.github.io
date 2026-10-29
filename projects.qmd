@@ -77,6 +77,27 @@ A machine learning approach to analyze pressing in soccer with player-tracking d
 
 ## More Projects
 
+
+### 2026
+
+::: {.project-list}
+
+:::: {.project-list-entry}
+::: {.project-meta}
+Jul 2026 | Personal Project
+:::
+
+### Goalkeeper Metric: Clean Sheets Earned (CSE)
+
+A metric to estimate a goalkeeper's share of credit for a clean sheet, accounting for shot difficulty and actions that prevent scoring opportunities before a shot is taken.
+
+::: {.project-links}
+[American Soccer Analysis](https://www.americansocceranalysis.com/home/2026/7/28/a-new-goalkeeper-metric-clean-sheets-earned-cse)
+:::
+::::
+
+:::
+
 ### 2025
 
 ::: {.project-list}
