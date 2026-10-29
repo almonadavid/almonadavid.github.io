@@ -40,5 +40,9 @@ format:
     css: styles.css
     toc: true
     link-external-newwindow: true
+    include-in-header:
+      - text: |
+          <script data-goatcounter="https://almonadavid.goatcounter.com/count"
+                  async src="//gc.zgo.at/count.js"></script>
 execute:
   freeze: auto
