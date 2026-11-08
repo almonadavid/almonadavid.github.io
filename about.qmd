@@ -154,7 +154,7 @@ Advisor: [Jeffrey Heath](https://www.linkedin.com/in/jeffrey-heath-3294598/)
   <div><strong>Carnegie Mellon Sports Analytics Conference</strong><span class="about-event-detail">Pittsburgh, PA · Poster presentation</span></div>
 </div>
 
-## Mentorship & Professional Development
+## Leadership & Professional Development
 
 <div class="about-event">
   <span class="about-date">Mentee</span>
