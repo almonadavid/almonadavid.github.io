@@ -64,7 +64,9 @@ Jul 2025 | Carnegie Mellon Sports Analytics Camp
 
 A machine learning approach to analyze pressing in soccer with player-tracking data from MLS matches in the 2023 season.
 
-**Partners:** Natalie Rayce (Carnegie Mellon University) and Daniel Wicker (Charlotte FC)
+**Partner:** Natalie Rayce (Carnegie Mellon University)
+
+**External Advisor:** Daniel Wicker (Charlotte FC)
 
 ::: {.project-links}
 [Report](/projects/CMSACamp/Capstone_Report.html) | [Poster](/projects/CMSACamp/CMSACamp_Poster.pdf) | [Slides](/projects/CMSACamp/Final_Presentation.html) | [GitHub](https://github.com/almonadavid/CMU-Soccer-SkillCorner)
